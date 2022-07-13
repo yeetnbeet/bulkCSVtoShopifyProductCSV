@@ -1,0 +1,544 @@
+Product,MaterialNumber,Title,ProductText,Spec,Color,Size,ModelYear,Zolltarifnummer,BMC / SCOR,OnWebsite,Series,Retail,WholeSale,GTIN,Country
+SLR01_LTD,30002241,SLR01 LTD wht blk red 47 MY23,Teammachine SLR01 LTD,Super Record EPS,wht blk red,47,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027883022,Polen
+SLR01_LTD,30002242,SLR01 LTD wht blk red 51 MY23,Teammachine SLR01 LTD,Super Record EPS,wht blk red,51,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027883015,Polen
+SLR01_LTD,30002243,SLR01 LTD wht blk red 54 MY23,Teammachine SLR01 LTD,Super Record EPS,wht blk red,54,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027883008,Polen
+SLR01_LTD,30002244,SLR01 LTD wht blk red 56 MY23,Teammachine SLR01 LTD,Super Record EPS,wht blk red,56,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027882995,Polen
+SLR01_LTD,30002245,SLR01 LTD wht blk red 58 MY23,Teammachine SLR01 LTD,Super Record EPS,wht blk red,58,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027882988,Polen
+SLR01_LTD,30002246,SLR01 LTD wht blk red 61 MY23,Teammachine SLR01 LTD,Super Record EPS,wht blk red,61,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027882971,Polen
+SLR01_ONE,30002247,SLR01 ONE red blk red 47 MY23,Teammachine SLR01 ONE,Red AXS HRD,red blk red,47,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027882964,Taiwan
+SLR01_ONE,30002248,SLR01 ONE red blk red 51 MY23,Teammachine SLR01 ONE,Red AXS HRD,red blk red,51,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027882957,Taiwan
+SLR01_ONE,30002249,SLR01 ONE red blk red 54 MY23,Teammachine SLR01 ONE,Red AXS HRD,red blk red,54,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027882940,Taiwan
+SLR01_ONE,30002250,SLR01 ONE red blk red 56 MY23,Teammachine SLR01 ONE,Red AXS HRD,red blk red,56,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027883039,Taiwan
+SLR01_ONE,30002251,SLR01 ONE red blk red 58 MY23,Teammachine SLR01 ONE,Red AXS HRD,red blk red,58,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027883121,Taiwan
+SLR01_ONE,30002252,SLR01 ONE red blk red 61 MY23,Teammachine SLR01 ONE,Red AXS HRD,red blk red,61,2023,8712,BMC,Ja,Altitude,10.5,6.5,7630027883114,Taiwan
+SLR01_TWO,30002253,SLR01 TWO cbn wht wht 47 MY23,Teammachine SLR01 TWO,Dura Ace Di2,cbn wht wht,47,2023,8712,BMC,Ja,Altitude,10.7,6.7,7630027883107,Taiwan
+SLR01_TWO,30002254,SLR01 TWO cbn wht wht 51 MY23,Teammachine SLR01 TWO,Dura Ace Di2,cbn wht wht,51,2023,8712,BMC,Ja,Altitude,10.7,6.7,7630027883091,Taiwan
+SLR01_TWO,30002255,SLR01 TWO cbn wht wht 54 MY23,Teammachine SLR01 TWO,Dura Ace Di2,cbn wht wht,54,2023,8712,BMC,Ja,Altitude,10.7,6.7,7630027883084,Taiwan
+SLR01_TWO,30002256,SLR01 TWO cbn wht wht 56 MY23,Teammachine SLR01 TWO,Dura Ace Di2,cbn wht wht,56,2023,8712,BMC,Ja,Altitude,10.7,6.7,7630027883077,Taiwan
+SLR01_TWO,30002257,SLR01 TWO cbn wht wht 58 MY23,Teammachine SLR01 TWO,Dura Ace Di2,cbn wht wht,58,2023,8712,BMC,Ja,Altitude,10.7,6.7,7630027883060,Taiwan
+SLR01_TWO,30002258,SLR01 TWO cbn wht wht 61 MY23,Teammachine SLR01 TWO,Dura Ace Di2,cbn wht wht,61,2023,8712,BMC,Ja,Altitude,10.7,6.7,7630027883053,Taiwan
+SLR01_THREE,30002259,SLR01 THREE tur blk wht 47 MY23,Teammachine SLR01 THREE,Ultegra Di2,tur blk wht,47,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883046,Taiwan
+SLR01_THREE,30002260,SLR01 THREE tur blk wht 51 MY23,Teammachine SLR01 THREE,Ultegra Di2,tur blk wht,51,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883138,Taiwan
+SLR01_THREE,30002261,SLR01 THREE tur blk wht 54 MY23,Teammachine SLR01 THREE,Ultegra Di2,tur blk wht,54,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883220,Taiwan
+SLR01_THREE,30002262,SLR01 THREE tur blk wht 56 MY23,Teammachine SLR01 THREE,Ultegra Di2,tur blk wht,56,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883213,Taiwan
+SLR01_THREE,30002263,SLR01 THREE tur blk wht 58 MY23,Teammachine SLR01 THREE,Ultegra Di2,tur blk wht,58,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883206,Taiwan
+SLR01_THREE,30002264,SLR01 THREE tur blk wht 61 MY23,Teammachine SLR01 THREE,Ultegra Di2,tur blk wht,61,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883190,Taiwan
+SLR01_FOUR,30002265,SLR01 FOUR gry iri cbn 47 MY23,Teammachine SLR01 FOUR,Force AXS HRD,gry iri cbn,47,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883183,Taiwan
+SLR01_FOUR,30002266,SLR01 FOUR gry iri cbn 51 MY23,Teammachine SLR01 FOUR,Force AXS HRD,gry iri cbn,51,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883176,Taiwan
+SLR01_FOUR,30002267,SLR01 FOUR gry iri cbn 54 MY23,Teammachine SLR01 FOUR,Force AXS HRD,gry iri cbn,54,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883169,Taiwan
+SLR01_FOUR,30002268,SLR01 FOUR gry iri cbn 56 MY23,Teammachine SLR01 FOUR,Force AXS HRD,gry iri cbn,56,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883152,Taiwan
+SLR01_FOUR,30002269,SLR01 FOUR gry iri cbn 58 MY23,Teammachine SLR01 FOUR,Force AXS HRD,gry iri cbn,58,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883145,Taiwan
+SLR01_FOUR,30002270,SLR01 FOUR gry iri cbn 61 MY23,Teammachine SLR01 FOUR,Force AXS HRD,gry iri cbn,61,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883237,Taiwan
+SLR01_FIVE,30002271,SLR01 FIVE gry blk blk 47 MY23,Teammachine SLR01 FIVE,Ultegra Di2,gry blk blk,47,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883329,Taiwan
+SLR01_FIVE,30002272,SLR01 FIVE gry blk blk 51 MY23,Teammachine SLR01 FIVE,Ultegra Di2,gry blk blk,51,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883312,Taiwan
+SLR01_FIVE,30002273,SLR01 FIVE gry blk blk 54 MY23,Teammachine SLR01 FIVE,Ultegra Di2,gry blk blk,54,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883305,Taiwan
+SLR01_FIVE,30002274,SLR01 FIVE gry blk blk 56 MY23,Teammachine SLR01 FIVE,Ultegra Di2,gry blk blk,56,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883299,Taiwan
+SLR01_FIVE,30002275,SLR01 FIVE gry blk blk 58 MY23,Teammachine SLR01 FIVE,Ultegra Di2,gry blk blk,58,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883282,Taiwan
+SLR01_FIVE,30002276,SLR01 FIVE gry blk blk 61 MY23,Teammachine SLR01 FIVE,Ultegra Di2,gry blk blk,61,2023,8712,BMC,Ja,Altitude,11.5,7.5,7630027883275,Taiwan
+SLR_ONE,30002319,SLR ONE iri bru bru 47 MY23,Teammachine SLR ONE,Ultegra Di2,iri bru bru,47,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883640,Taiwan
+SLR_ONE,30002320,SLR ONE iri bru bru 51 MY23,Teammachine SLR ONE,Ultegra Di2,iri bru bru,51,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883732,Taiwan
+SLR_ONE,30002321,SLR ONE iri bru bru 54 MY23,Teammachine SLR ONE,Ultegra Di2,iri bru bru,54,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883824,Taiwan
+SLR_ONE,30002322,SLR ONE iri bru bru 56 MY23,Teammachine SLR ONE,Ultegra Di2,iri bru bru,56,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883817,Taiwan
+SLR_ONE,30002323,SLR ONE iri bru bru 58 MY23,Teammachine SLR ONE,Ultegra Di2,iri bru bru,58,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883800,Taiwan
+SLR_ONE,30002324,SLR ONE iri bru bru 61 MY23,Teammachine SLR ONE,Ultegra Di2,iri bru bru,61,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883794,Taiwan
+SLR_TWO,30002325,SLR TWO cbn iri iri 47 MY23,Teammachine SLR TWO,Force AXS HRD,cbn iri iri,47,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883787,Taiwan
+SLR_TWO,30002326,SLR TWO cbn iri iri 51 MY23,Teammachine SLR TWO,Force AXS HRD,cbn iri iri,51,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883770,Taiwan
+SLR_TWO,30002327,SLR TWO cbn iri iri 54 MY23,Teammachine SLR TWO,Force AXS HRD,cbn iri iri,54,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883763,Taiwan
+SLR_TWO,30002328,SLR TWO cbn iri iri 56 MY23,Teammachine SLR TWO,Force AXS HRD,cbn iri iri,56,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883756,Taiwan
+SLR_TWO,30002329,SLR TWO cbn iri iri 58 MY23,Teammachine SLR TWO,Force AXS HRD,cbn iri iri,58,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883749,Taiwan
+SLR_TWO,30002330,SLR TWO cbn iri iri 61 MY23,Teammachine SLR TWO,Force AXS HRD,cbn iri iri,61,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883831,Taiwan
+SLR_THREE,30002331,SLR THREE blu bru ora 47 MY23,Teammachine SLR THREE,Ultegra Di2,blu bru ora,47,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883923,Taiwan
+SLR_THREE,30002332,SLR THREE blu bru ora 51 MY23,Teammachine SLR THREE,Ultegra Di2,blu bru ora,51,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883916,Taiwan
+SLR_THREE,30002333,SLR THREE blu bru ora 54 MY23,Teammachine SLR THREE,Ultegra Di2,blu bru ora,54,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883909,Taiwan
+SLR_THREE,30002334,SLR THREE blu bru ora 56 MY23,Teammachine SLR THREE,Ultegra Di2,blu bru ora,56,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883893,Taiwan
+SLR_THREE,30002335,SLR THREE blu bru ora 58 MY23,Teammachine SLR THREE,Ultegra Di2,blu bru ora,58,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883886,Taiwan
+SLR_THREE,30002336,SLR THREE blu bru ora 61 MY23,Teammachine SLR THREE,Ultegra Di2,blu bru ora,61,2023,8712,BMC,Ja,Altitude,11.7,7.7,7630027883879,Taiwan
+SLR_FOUR,30002337,SLR FOUR ant bru red 47 MY23,Teammachine SLR FOUR,Rival AXS HRD,ant bru red,47,2023,8712,BMC,Ja,Altitude,12,8,7630027883862,Taiwan
+SLR_FOUR,30002338,SLR FOUR ant bru red 51 MY23,Teammachine SLR FOUR,Rival AXS HRD,ant bru red,51,2023,8712,BMC,Ja,Altitude,12,8,7630027883855,Taiwan
+SLR_FOUR,30002339,SLR FOUR ant bru red 54 MY23,Teammachine SLR FOUR,Rival AXS HRD,ant bru red,54,2023,8712,BMC,Ja,Altitude,12,8,7630027883848,Taiwan
+SLR_FOUR,30002340,SLR FOUR ant bru red 56 MY23,Teammachine SLR FOUR,Rival AXS HRD,ant bru red,56,2023,8712,BMC,Ja,Altitude,12,8,7630027883930,Taiwan
+SLR_FOUR,30002341,SLR FOUR ant bru red 58 MY23,Teammachine SLR FOUR,Rival AXS HRD,ant bru red,58,2023,8712,BMC,Ja,Altitude,12,8,7630027884029,Taiwan
+SLR_FOUR,30002342,SLR FOUR ant bru red 61 MY23,Teammachine SLR FOUR,Rival AXS HRD,ant bru red,61,2023,8712,BMC,Ja,Altitude,12,8,7630027884012,Taiwan
+SLR_FIVE,30002343,SLR FIVE gry blk red 47 MY23,Teammachine SLR FIVE,(Di2),gry blk red,47,2023,8712,BMC,Ja,Altitude,12,8,7630027884005,Taiwan
+SLR_FIVE,30002344,SLR FIVE gry blk red 51 MY23,Teammachine SLR FIVE,(Di2),gry blk red,51,2023,8712,BMC,Ja,Altitude,12,8,7630027883992,Taiwan
+SLR_FIVE,30002345,SLR FIVE gry blk red 54 MY23,Teammachine SLR FIVE,(Di2),gry blk red,54,2023,8712,BMC,Ja,Altitude,12,8,7630027883985,Taiwan
+SLR_FIVE,30002346,SLR FIVE gry blk red 56 MY23,Teammachine SLR FIVE,(Di2),gry blk red,56,2023,8712,BMC,Ja,Altitude,12,8,7630027883978,Taiwan
+SLR_FIVE,30002347,SLR FIVE gry blk red 58 MY23,Teammachine SLR FIVE,(Di2),gry blk red,58,2023,8712,BMC,Ja,Altitude,12,8,7630027883961,Taiwan
+SLR_FIVE,30002348,SLR FIVE gry blk red 61 MY23,Teammachine SLR FIVE,(Di2),gry blk red,61,2023,8712,BMC,Ja,Altitude,12,8,7630027883954,Taiwan
+SLR_SIX,30002349,SLR SIX red blk wht 47 MY23,Teammachine SLR SIX,105,red blk wht,47,2023,8712,BMC,Ja,Altitude,12,8,7630027883947,Taiwan
+SLR_SIX,30002350,SLR SIX red blk wht 51 MY23,Teammachine SLR SIX,105,red blk wht,51,2023,8712,BMC,Ja,Altitude,12,8,7630027884036,Taiwan
+SLR_SIX,30002351,SLR SIX red blk wht 54 MY23,Teammachine SLR SIX,105,red blk wht,54,2023,8712,BMC,Ja,Altitude,12,8,7630027884128,Taiwan
+SLR_SIX,30002352,SLR SIX red blk wht 56 MY23,Teammachine SLR SIX,105,red blk wht,56,2023,8712,BMC,Ja,Altitude,12,8,7630027884111,Taiwan
+SLR_SIX,30002353,SLR SIX red blk wht 58 MY23,Teammachine SLR SIX,105,red blk wht,58,2023,8712,BMC,Ja,Altitude,12,8,7630027884104,Taiwan
+SLR_SIX,30002354,SLR SIX red blk wht 61 MY23,Teammachine SLR SIX,105,red blk wht,61,2023,8712,BMC,Ja,Altitude,12,8,7630027884098,Taiwan
+SLR_SEVEN,30002355,SLR SEVEN blk wht wht 47 MY23,Teammachine SLR SEVEN,105 mix,blk wht wht,47,2023,8712,BMC,Ja,Altitude,12,8,7630027884081,Taiwan
+SLR_SEVEN,30002356,SLR SEVEN blk wht wht 51 MY23,Teammachine SLR SEVEN,105 mix,blk wht wht,51,2023,8712,BMC,Ja,Altitude,12,8,7630027884074,Taiwan
+SLR_SEVEN,30002357,SLR SEVEN blk wht wht 54 MY23,Teammachine SLR SEVEN,105 mix,blk wht wht,54,2023,8712,BMC,Ja,Altitude,12,8,7630027884067,Taiwan
+SLR_SEVEN,30002358,SLR SEVEN blk wht wht 56 MY23,Teammachine SLR SEVEN,105 mix,blk wht wht,56,2023,8712,BMC,Ja,Altitude,12,8,7630027884050,Taiwan
+SLR_SEVEN,30002359,SLR SEVEN blk wht wht 58 MY23,Teammachine SLR SEVEN,105 mix,blk wht wht,58,2023,8712,BMC,Ja,Altitude,12,8,7630027884043,Taiwan
+SLR_SEVEN,30002360,SLR SEVEN blk wht wht 61 MY23,Teammachine SLR SEVEN,105 mix,blk wht wht,61,2023,8712,BMC,Ja,Altitude,12,8,7630027884135,Taiwan
+SLR_FRS_VAR1,30002361,SLR FRS V1 cbn iri iri 47 MY23,Teammachine SLR FRS V1,Frameset,cbn iri iri,47,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884227,Taiwan
+SLR_FRS_VAR1,30002362,SLR FRS V1 cbn iri iri 51 MY23,Teammachine SLR FRS V1,Frameset,cbn iri iri,51,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884210,Taiwan
+SLR_FRS_VAR1,30002363,SLR FRS V1 cbn iri iri 54 MY23,Teammachine SLR FRS V1,Frameset,cbn iri iri,54,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884203,Taiwan
+SLR_FRS_VAR1,30002364,SLR FRS V1 cbn iri iri 56 MY23,Teammachine SLR FRS V1,Frameset,cbn iri iri,56,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884197,Taiwan
+SLR_FRS_VAR1,30002365,SLR FRS V1 cbn iri iri 58 MY23,Teammachine SLR FRS V1,Frameset,cbn iri iri,58,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884180,Taiwan
+SLR_FRS_VAR1,30002366,SLR FRS V1 cbn iri iri 61 MY23,Teammachine SLR FRS V1,Frameset,cbn iri iri,61,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884173,Taiwan
+SLR_FRS_VAR2,30002367,SLR FRS V2 iri bru bru 47 MY23,Teammachine SLR FRS V2,Frameset,iri bru bru,47,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884166,Taiwan
+SLR_FRS_VAR2,30002368,SLR FRS V2 iri bru bru 51 MY23,Teammachine SLR FRS V2,Frameset,iri bru bru,51,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884159,Taiwan
+SLR_FRS_VAR2,30002369,SLR FRS V2 iri bru bru 54 MY23,Teammachine SLR FRS V2,Frameset,iri bru bru,54,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884142,Taiwan
+SLR_FRS_VAR2,30002370,SLR FRS V2 iri bru bru 56 MY23,Teammachine SLR FRS V2,Frameset,iri bru bru,56,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884234,Taiwan
+SLR_FRS_VAR2,30002371,SLR FRS V2 iri bru bru 58 MY23,Teammachine SLR FRS V2,Frameset,iri bru bru,58,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884326,Taiwan
+SLR_FRS_VAR2,30002372,SLR FRS V2 iri bru bru 61 MY23,Teammachine SLR FRS V2,Frameset,iri bru bru,61,2023,8714.919,BMC,Ja,Altitude,7.5,3.5,7630027884319,Taiwan
+ALR_ONE,30002373,ALR ONE blk wht gry 47 MY23,Teammachine ALR ONE,Rival AXS HRD,blk wht gry,47,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884302,Taiwan
+ALR_ONE,30002374,ALR ONE blk wht gry 51 MY23,Teammachine ALR ONE,Rival AXS HRD,blk wht gry,51,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884296,Taiwan
+ALR_ONE,30002375,ALR ONE blk wht gry 54 MY23,Teammachine ALR ONE,Rival AXS HRD,blk wht gry,54,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884289,Taiwan
+ALR_ONE,30002376,ALR ONE blk wht gry 57 MY23,Teammachine ALR ONE,Rival AXS HRD,blk wht gry,57,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884272,Taiwan
+ALR_ONE,30002377,ALR ONE blk wht gry 60 MY23,Teammachine ALR ONE,Rival AXS HRD,blk wht gry,60,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884265,Taiwan
+ALR_TWO,30002378,ALR TWO sil blk red 47 MY23,Teammachine ALR TWO,105,sil blk red,47,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884258,Taiwan
+ALR_TWO,30002379,ALR TWO sil blk red 51 MY23,Teammachine ALR TWO,105,sil blk red,51,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884241,Taiwan
+ALR_TWO,30002380,ALR TWO sil blk red 54 MY23,Teammachine ALR TWO,105,sil blk red,54,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884333,Taiwan
+ALR_TWO,30002381,ALR TWO sil blk red 57 MY23,Teammachine ALR TWO,105,sil blk red,57,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884425,Taiwan
+ALR_TWO,30002382,ALR TWO sil blk red 60 MY23,Teammachine ALR TWO,105,sil blk red,60,2023,8712,BMC,Ja,Altitude,12.8,8.8,7630027884418,Taiwan
+RM01_ONE,30002383,RM01 ONE blu blk gry 47 MY23,Roadmachine 01 ONE,Red AXS HRD,blu blk gry,47,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884401,Taiwan
+RM01_ONE,30002384,RM01 ONE blu blk gry 51 MY23,Roadmachine 01 ONE,Red AXS HRD,blu blk gry,51,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884395,Taiwan
+RM01_ONE,30002385,RM01 ONE blu blk gry 54 MY23,Roadmachine 01 ONE,Red AXS HRD,blu blk gry,54,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884388,Taiwan
+RM01_ONE,30002386,RM01 ONE blu blk gry 56 MY23,Roadmachine 01 ONE,Red AXS HRD,blu blk gry,56,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884371,Taiwan
+RM01_ONE,30002387,RM01 ONE blu blk gry 58 MY23,Roadmachine 01 ONE,Red AXS HRD,blu blk gry,58,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884364,Taiwan
+RM01_ONE,30002388,RM01 ONE blu blk gry 61 MY23,Roadmachine 01 ONE,Red AXS HRD,blu blk gry,61,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884357,Taiwan
+RM01_TWO,30002389,RM01 TWO gry blk wht 47 MY23,Roadmachine 01 TWO,Dura Ace Di2,gry blk wht,47,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884340,Taiwan
+RM01_TWO,30002390,RM01 TWO gry blk wht 51 MY23,Roadmachine 01 TWO,Dura Ace Di2,gry blk wht,51,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884432,Taiwan
+RM01_TWO,30002391,RM01 TWO gry blk wht 54 MY23,Roadmachine 01 TWO,Dura Ace Di2,gry blk wht,54,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884524,Taiwan
+RM01_TWO,30002392,RM01 TWO gry blk wht 56 MY23,Roadmachine 01 TWO,Dura Ace Di2,gry blk wht,56,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884517,Taiwan
+RM01_TWO,30002393,RM01 TWO gry blk wht 58 MY23,Roadmachine 01 TWO,Dura Ace Di2,gry blk wht,58,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884500,Taiwan
+RM01_TWO,30002394,RM01 TWO gry blk wht 61 MY23,Roadmachine 01 TWO,Dura Ace Di2,gry blk wht,61,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884494,Taiwan
+RM01_THREE,30002395,RM01 THREE prp red blk 47 MY23,Roadmachine 01 THREE,Ultegra Di2,prp red blk,47,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884487,Taiwan
+RM01_THREE,30002396,RM01 THREE prp red blk 51 MY23,Roadmachine 01 THREE,Ultegra Di2,prp red blk,51,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884470,Taiwan
+RM01_THREE,30002397,RM01 THREE prp red blk 54 MY23,Roadmachine 01 THREE,Ultegra Di2,prp red blk,54,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884463,Taiwan
+RM01_THREE,30002398,RM01 THREE prp red blk 56 MY23,Roadmachine 01 THREE,Ultegra Di2,prp red blk,56,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884456,Taiwan
+RM01_THREE,30002399,RM01 THREE prp red blk 58 MY23,Roadmachine 01 THREE,Ultegra Di2,prp red blk,58,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884449,Taiwan
+RM01_THREE,30002400,RM01 THREE prp red blk 61 MY23,Roadmachine 01 THREE,Ultegra Di2,prp red blk,61,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884531,Taiwan
+RM01_FOUR,30002401,RM01 FOUR red blk wht 47 MY23,Roadmachine 01 FOUR,Force AXS HRD,red blk wht,47,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884623,Taiwan
+RM01_FOUR,30002402,RM01 FOUR red blk wht 51 MY23,Roadmachine 01 FOUR,Force AXS HRD,red blk wht,51,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884616,Taiwan
+RM01_FOUR,30002403,RM01 FOUR red blk wht 54 MY23,Roadmachine 01 FOUR,Force AXS HRD,red blk wht,54,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884609,Taiwan
+RM01_FOUR,30002404,RM01 FOUR red blk wht 56 MY23,Roadmachine 01 FOUR,Force AXS HRD,red blk wht,56,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884593,Taiwan
+RM01_FOUR,30002405,RM01 FOUR red blk wht 58 MY23,Roadmachine 01 FOUR,Force AXS HRD,red blk wht,58,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884586,Taiwan
+RM01_FOUR,30002406,RM01 FOUR red blk wht 61 MY23,Roadmachine 01 FOUR,Force AXS HRD,red blk wht,61,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884579,Taiwan
+RM01_FIVE,30002407,RM01 FIVE cbn gry gry 47 MY23,Roadmachine 01 FIVE,Ultegra Di2,cbn gry gry,47,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884562,Taiwan
+RM01_FIVE,30002408,RM01 FIVE cbn gry gry 51 MY23,Roadmachine 01 FIVE,Ultegra Di2,cbn gry gry,51,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884555,Taiwan
+RM01_FIVE,30002409,RM01 FIVE cbn gry gry 54 MY23,Roadmachine 01 FIVE,Ultegra Di2,cbn gry gry,54,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884548,Taiwan
+RM01_FIVE,30002410,RM01 FIVE cbn gry gry 56 MY23,Roadmachine 01 FIVE,Ultegra Di2,cbn gry gry,56,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884630,Taiwan
+RM01_FIVE,30002411,RM01 FIVE cbn gry gry 58 MY23,Roadmachine 01 FIVE,Ultegra Di2,cbn gry gry,58,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884722,Taiwan
+RM01_FIVE,30002412,RM01 FIVE cbn gry gry 61 MY23,Roadmachine 01 FIVE,Ultegra Di2,cbn gry gry,61,2023,8712,BMC,Ja,Endurance,11.5,7.5,7630027884715,Taiwan
+RM_ONE,30002419,RM ONE ora pet pet 47 MY23,Roadmachine ONE,Ultegra Di2,ora pet pet,47,2023,8712,BMC,Ja,Endurance,12,8,7630027884647,Taiwan
+RM_ONE,30002420,RM ONE ora pet pet 51 MY23,Roadmachine ONE,Ultegra Di2,ora pet pet,51,2023,8712,BMC,Ja,Endurance,12,8,7630027884739,Taiwan
+RM_ONE,30002421,RM ONE ora pet pet 54 MY23,Roadmachine ONE,Ultegra Di2,ora pet pet,54,2023,8712,BMC,Ja,Endurance,12,8,7630027884821,Taiwan
+RM_ONE,30002422,RM ONE ora pet pet 56 MY23,Roadmachine ONE,Ultegra Di2,ora pet pet,56,2023,8712,BMC,Ja,Endurance,12,8,7630027884814,Taiwan
+RM_ONE,30002423,RM ONE ora pet pet 58 MY23,Roadmachine ONE,Ultegra Di2,ora pet pet,58,2023,8712,BMC,Ja,Endurance,12,8,7630027884807,Taiwan
+RM_ONE,30002424,RM ONE ora pet pet 61 MY23,Roadmachine ONE,Ultegra Di2,ora pet pet,61,2023,8712,BMC,Ja,Endurance,12,8,7630027884791,Taiwan
+RM_TWO,30002425,RM TWO cbn gry gry 47 MY23,Roadmachine TWO,Force AXS HRD,cbn gry gry,47,2023,8712,BMC,Ja,Endurance,12,8,7630027884784,Taiwan
+RM_TWO,30002426,RM TWO cbn gry gry 51 MY23,Roadmachine TWO,Force AXS HRD,cbn gry gry,51,2023,8712,BMC,Ja,Endurance,12,8,7630027884777,Taiwan
+RM_TWO,30002427,RM TWO cbn gry gry 54 MY23,Roadmachine TWO,Force AXS HRD,cbn gry gry,54,2023,8712,BMC,Ja,Endurance,12,8,7630027884760,Taiwan
+RM_TWO,30002428,RM TWO cbn gry gry 56 MY23,Roadmachine TWO,Force AXS HRD,cbn gry gry,56,2023,8712,BMC,Ja,Endurance,12,8,7630027884753,Taiwan
+RM_TWO,30002430,RM TWO cbn gry gry 61 MY23,Roadmachine TWO,Force AXS HRD,cbn gry gry,61,2023,8712,BMC,Ja,Endurance,12,8,7630027884746,Taiwan
+RM_THREE,30002431,RM THREE wht blk wht 47 MY23,Roadmachine THREE,Ultegra Di2,wht blk wht,47,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884838,Taiwan
+RM_THREE,30002432,RM THREE wht blk wht 51 MY23,Roadmachine THREE,Ultegra Di2,wht blk wht,51,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884920,Taiwan
+RM_THREE,30002433,RM THREE wht blk wht 54 MY23,Roadmachine THREE,Ultegra Di2,wht blk wht,54,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884913,Taiwan
+RM_THREE,30002434,RM THREE wht blk wht 56 MY23,Roadmachine THREE,Ultegra Di2,wht blk wht,56,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884906,Taiwan
+RM_THREE,30002435,RM THREE wht blk wht 58 MY23,Roadmachine THREE,Ultegra Di2,wht blk wht,58,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884890,Taiwan
+RM_THREE,30002436,RM THREE wht blk wht 61 MY23,Roadmachine THREE,Ultegra Di2,wht blk wht,61,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884883,Taiwan
+RM_FOUR,30002437,RM FOUR bwn blk tur 47 MY23,Roadmachine FOUR,Rival AXS HRD,bwn blk tur,47,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884876,Taiwan
+RM_FOUR,30002438,RM FOUR bwn blk tur 51 MY23,Roadmachine FOUR,Rival AXS HRD,bwn blk tur,51,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884869,Taiwan
+RM_FOUR,30002439,RM FOUR bwn blk tur 54 MY23,Roadmachine FOUR,Rival AXS HRD,bwn blk tur,54,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884852,Taiwan
+RM_FOUR,30002440,RM FOUR bwn blk tur 56 MY23,Roadmachine FOUR,Rival AXS HRD,bwn blk tur,56,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884845,Taiwan
+RM_FOUR,30002441,RM FOUR bwn blk tur 58 MY23,Roadmachine FOUR,Rival AXS HRD,bwn blk tur,58,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027884937,Taiwan
+RM_FOUR,30002442,RM FOUR bwn blk tur 61 MY23,Roadmachine FOUR,Rival AXS HRD,bwn blk tur,61,2023,8712,BMC,Ja,Endurance,12.2,8.2,7630027885026,Taiwan
+RM_FIVE,30002443,RM FIVE cbn wht gry 47 MY23,Roadmachine FIVE,(Di2),cbn wht gry,47,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885019,Taiwan
+RM_FIVE,30002444,RM FIVE cbn wht gry 51 MY23,Roadmachine FIVE,(Di2),cbn wht gry,51,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885002,Taiwan
+RM_FIVE,30002445,RM FIVE cbn wht gry 54 MY23,Roadmachine FIVE,(Di2),cbn wht gry,54,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027884999,Taiwan
+RM_FIVE,30002446,RM FIVE cbn wht gry 56 MY23,Roadmachine FIVE,(Di2),cbn wht gry,56,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027884982,Taiwan
+RM_FIVE,30002447,RM FIVE cbn wht gry 58 MY23,Roadmachine FIVE,(Di2),cbn wht gry,58,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027884975,Taiwan
+RM_FIVE,30002448,RM FIVE cbn wht gry 61 MY23,Roadmachine FIVE,(Di2),cbn wht gry,61,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027884968,Taiwan
+RM_SIX,30002449,RM SIX pet tur blk 47 MY23,Roadmachine SIX,105,pet tur blk,47,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027884951,Taiwan
+RM_SIX,30002450,RM SIX pet tur blk 51 MY23,Roadmachine SIX,105,pet tur blk,51,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027884944,Taiwan
+RM_SIX,30002451,RM SIX pet tur blk 54 MY23,Roadmachine SIX,105,pet tur blk,54,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885033,Taiwan
+RM_SIX,30002452,RM SIX pet tur blk 56 MY23,Roadmachine SIX,105,pet tur blk,56,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885125,Taiwan
+RM_SIX,30002453,RM SIX pet tur blk 58 MY23,Roadmachine SIX,105,pet tur blk,58,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885118,Taiwan
+RM_SIX,30002454,RM SIX pet tur blk 61 MY23,Roadmachine SIX,105,pet tur blk,61,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885101,Taiwan
+RM_SEVEN,30002455,RM SEVEN red blu pet 47 MY23,Roadmachine SEVEN,105 mix,red blu pet,47,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885095,Taiwan
+RM_SEVEN,30002456,RM SEVEN red blu pet 51 MY23,Roadmachine SEVEN,105 mix,red blu pet,51,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885088,Taiwan
+RM_SEVEN,30002457,RM SEVEN red blu pet 54 MY23,Roadmachine SEVEN,105 mix,red blu pet,54,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885071,Taiwan
+RM_SEVEN,30002458,RM SEVEN red blu pet 56 MY23,Roadmachine SEVEN,105 mix,red blu pet,56,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885064,Taiwan
+RM_SEVEN,30002459,RM SEVEN red blu pet 58 MY23,Roadmachine SEVEN,105 mix,red blu pet,58,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885057,Taiwan
+RM_SEVEN,30002460,RM SEVEN red blu pet 61 MY23,Roadmachine SEVEN,105 mix,red blu pet,61,2023,8712,BMC,Ja,Endurance,12.5,8.5,7630027885040,Taiwan
+RMX_ONE,30002461,RMX ONE blu blk blk 47 MY23,Roadmachine X ONE,Force AXS XPLR,blu blk blk,47,2023,8712,BMC,Ja,Endurance,13,9,7630027885132,Taiwan
+RMX_ONE,30002462,RMX ONE blu blk blk 51 MY23,Roadmachine X ONE,Force AXS XPLR,blu blk blk,51,2023,8712,BMC,Ja,Endurance,13,9,7630027885224,Taiwan
+RMX_ONE,30002463,RMX ONE blu blk blk 54 MY23,Roadmachine X ONE,Force AXS XPLR,blu blk blk,54,2023,8712,BMC,Ja,Endurance,13,9,7630027885217,Taiwan
+RMX_ONE,30002464,RMX ONE blu blk blk 56 MY23,Roadmachine X ONE,Force AXS XPLR,blu blk blk,56,2023,8712,BMC,Ja,Endurance,13,9,7630027885200,Taiwan
+RMX_ONE,30002465,RMX ONE blu blk blk 58 MY23,Roadmachine X ONE,Force AXS XPLR,blu blk blk,58,2023,8712,BMC,Ja,Endurance,13,9,7630027885194,Taiwan
+RMX_ONE,30002466,RMX ONE blu blk blk 61 MY23,Roadmachine X ONE,Force AXS XPLR,blu blk blk,61,2023,8712,BMC,Ja,Endurance,13,9,7630027885187,Taiwan
+RMX_TWO,30002467,RMX TWO yel blk blk 47 MY23,Roadmachine X TWO,Rival AXS XPLR,yel blk blk,47,2023,8712,BMC,Ja,Endurance,13,9,7630027885170,Taiwan
+RMX_TWO,30002468,RMX TWO yel blk blk 51 MY23,Roadmachine X TWO,Rival AXS XPLR,yel blk blk,51,2023,8712,BMC,Ja,Endurance,13,9,7630027885163,Taiwan
+RMX_TWO,30002469,RMX TWO yel blk blk 54 MY23,Roadmachine X TWO,Rival AXS XPLR,yel blk blk,54,2023,8712,BMC,Ja,Endurance,13,9,7630027885156,Taiwan
+RMX_TWO,30002470,RMX TWO yel blk blk 56 MY23,Roadmachine X TWO,Rival AXS XPLR,yel blk blk,56,2023,8712,BMC,Ja,Endurance,13,9,7630027885149,Taiwan
+RMX_TWO,30002471,RMX TWO yel blk blk 58 MY23,Roadmachine X TWO,Rival AXS XPLR,yel blk blk,58,2023,8712,BMC,Ja,Endurance,13,9,7630027885231,Taiwan
+RMX_TWO,30002472,RMX TWO yel blk blk 61 MY23,Roadmachine X TWO,Rival AXS XPLR,yel blk blk,61,2023,8712,BMC,Ja,Endurance,13,9,7630027885323,Taiwan
+RMX_AL_ONE,30002473,RMX AL ONE gry yel blk XS MY23,Roadmachine X AL ONE,Rival 1x11,gry yel blk,XS,2023,8712,BMC,Ja,Endurance,13,9,7630027885316,Taiwan
+RMX_AL_ONE,30002474,RMX AL ONE gry yel blk S MY23,Roadmachine X AL ONE,Rival 1x11,gry yel blk,S,2023,8712,BMC,Ja,Endurance,13,9,7630027885309,Taiwan
+RMX_AL_ONE,30002475,RMX AL ONE gry yel blk M MY23,Roadmachine X AL ONE,Rival 1x11,gry yel blk,M,2023,8712,BMC,Ja,Endurance,13,9,7630027885293,Taiwan
+RMX_AL_ONE,30002476,RMX AL ONE gry yel blk L MY23,Roadmachine X AL ONE,Rival 1x11,gry yel blk,L,2023,8712,BMC,Ja,Endurance,13,9,7630027885286,Taiwan
+RMX_AL_ONE,30002477,RMX AL ONE gry yel blk XL MY23,Roadmachine X AL ONE,Rival 1x11,gry yel blk,XL,2023,8712,BMC,Ja,Endurance,13,9,7630027885279,Taiwan
+KAS01_ONE,30002478,KAS01 ONE wht blk tur 47 MY23,Kaius 01 ONE,Red AXS XPLR,wht blk tur,47,2023,8712,BMC,Ja,Gravel,13,9,7630027885262,Taiwan
+KAS01_ONE,30002479,KAS01 ONE wht blk tur 51 MY23,Kaius 01 ONE,Red AXS XPLR,wht blk tur,51,2023,8712,BMC,Ja,Gravel,13,9,7630027885255,Taiwan
+KAS01_ONE,30002480,KAS01 ONE wht blk tur 54 MY23,Kaius 01 ONE,Red AXS XPLR,wht blk tur,54,2023,8712,BMC,Ja,Gravel,13,9,7630027885248,Taiwan
+KAS01_ONE,30002481,KAS01 ONE wht blk tur 56 MY23,Kaius 01 ONE,Red AXS XPLR,wht blk tur,56,2023,8712,BMC,Ja,Gravel,13,9,7630027885330,Taiwan
+KAS01_ONE,30002482,KAS01 ONE wht blk tur 58 MY23,Kaius 01 ONE,Red AXS XPLR,wht blk tur,58,2023,8712,BMC,Ja,Gravel,13,9,7630027885422,Taiwan
+KAS01_ONE,30002483,KAS01 ONE wht blk tur 61 MY23,Kaius 01 ONE,Red AXS XPLR,wht blk tur,61,2023,8712,BMC,Ja,Gravel,13,9,7630027885415,Taiwan
+KAS01_TWO,30002484,KAS01 TWO tur blk ora 47 MY23,Kaius 01 TWO,Force AXS Wide,tur blk ora,47,2023,8712,BMC,Ja,Gravel,13,9,7630027885408,Taiwan
+KAS01_TWO,30002485,KAS01 TWO tur blk ora 51 MY23,Kaius 01 TWO,Force AXS Wide,tur blk ora,51,2023,8712,BMC,Ja,Gravel,13,9,7630027885392,Taiwan
+KAS01_TWO,30002486,KAS01 TWO tur blk ora 54 MY23,Kaius 01 TWO,Force AXS Wide,tur blk ora,54,2023,8712,BMC,Ja,Gravel,13,9,7630027885385,Taiwan
+KAS01_TWO,30002487,KAS01 TWO tur blk ora 56 MY23,Kaius 01 TWO,Force AXS Wide,tur blk ora,56,2023,8712,BMC,Ja,Gravel,13,9,7630027885378,Taiwan
+KAS01_TWO,30002488,KAS01 TWO tur blk ora 58 MY23,Kaius 01 TWO,Force AXS Wide,tur blk ora,58,2023,8712,BMC,Ja,Gravel,13,9,7630027885361,Taiwan
+KAS01_TWO,30002489,KAS01 TWO tur blk ora 61 MY23,Kaius 01 TWO,Force AXS Wide,tur blk ora,61,2023,8712,BMC,Ja,Gravel,13,9,7630027885354,Taiwan
+KAS01_THREE,30002490,KAS01 THREE ora blk tur 47 MY23,Kaius 01 THREE,Rival AXS Wide,ora blk tur,47,2023,8712,BMC,Ja,Gravel,13,9,7630027885347,Taiwan
+KAS01_THREE,30002491,KAS01 THREE ora blk tur 51 MY23,Kaius 01 THREE,Rival AXS Wide,ora blk tur,51,2023,8712,BMC,Ja,Gravel,13,9,7630027885439,Taiwan
+KAS01_THREE,30002492,KAS01 THREE ora blk tur 54 MY23,Kaius 01 THREE,Rival AXS Wide,ora blk tur,54,2023,8712,BMC,Ja,Gravel,13,9,7630027885521,Taiwan
+KAS01_THREE,30002493,KAS01 THREE ora blk tur 56 MY23,Kaius 01 THREE,Rival AXS Wide,ora blk tur,56,2023,8712,BMC,Ja,Gravel,13,9,7630027885514,Taiwan
+KAS01_THREE,30002494,KAS01 THREE ora blk tur 58 MY23,Kaius 01 THREE,Rival AXS Wide,ora blk tur,58,2023,8712,BMC,Ja,Gravel,13,9,7630027885507,Taiwan
+KAS01_THREE,30002495,KAS01 THREE ora blk tur 61 MY23,Kaius 01 THREE,Rival AXS Wide,ora blk tur,61,2023,8712,BMC,Ja,Gravel,13,9,7630027885491,Taiwan
+URS01_ONE,30002496,URS01 ONE prp ora blu S MY23,UnReStricted 01 ONE,Red AXS Eagle,prp ora blu,S,2023,8712,BMC,Ja,Gravel,12.2,8.2,7630027885484,Taiwan
+URS01_ONE,30002497,URS01 ONE prp ora blu M MY23,UnReStricted 01 ONE,Red AXS Eagle,prp ora blu,M,2023,8712,BMC,Ja,Gravel,12.2,8.2,7630027885477,Taiwan
+URS01_ONE,30002498,URS01 ONE prp ora blu L MY23,UnReStricted 01 ONE,Red AXS Eagle,prp ora blu,L,2023,8712,BMC,Ja,Gravel,12.2,8.2,7630027885460,Taiwan
+URS01_ONE,30002499,URS01 ONE prp ora blu XL MY23,UnReStricted 01 ONE,Red AXS Eagle,prp ora blu,XL,2023,8712,BMC,Ja,Gravel,12.2,8.2,7630027885453,Taiwan
+URS01_TWO,30002500,URS01 TWO mco blk tur S MY23,UnReStricted 01 TWO,Force AXS Eagle,mco blk tur,S,2023,8712,BMC,Ja,Gravel,12.2,8.2,7630027885446,Taiwan
+URS01_TWO,30002501,URS01 TWO mco blk tur M MY23,UnReStricted 01 TWO,Force AXS Eagle,mco blk tur,M,2023,8712,BMC,Ja,Gravel,12.2,8.2,7630027885538,Taiwan
+URS01_TWO,30002502,URS01 TWO mco blk tur L MY23,UnReStricted 01 TWO,Force AXS Eagle,mco blk tur,L,2023,8712,BMC,Ja,Gravel,12.2,8.2,7630027885620,Taiwan
+URS01_TWO,30002503,URS01 TWO mco blk tur XL MY23,UnReStricted 01 TWO,Force AXS Eagle,mco blk tur,XL,2023,8712,BMC,Ja,Gravel,12.2,8.2,7630027885613,Taiwan
+URS01_THREE,30002504,URS01 THREE prp wht mst S MY23,UnReStricted 01 THREE,Ekar,prp wht mst,S,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885606,Taiwan
+URS01_THREE,30002505,URS01 THREE prp wht mst M MY23,UnReStricted 01 THREE,Ekar,prp wht mst,M,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885590,Taiwan
+URS01_THREE,30002506,URS01 THREE prp wht mst L MY23,UnReStricted 01 THREE,Ekar,prp wht mst,L,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885583,Taiwan
+URS01_THREE,30002507,URS01 THREE prp wht mst XL MY23,UnReStricted 01 THREE,Ekar,prp wht mst,XL,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885576,Taiwan
+URS01_FOUR,30002508,URS01 FOUR mco grn wht S MY23,UnReStricted 01 FOUR,Rival AXS Eagle,mco grn wht,S,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885569,Taiwan
+URS01_FOUR,30002509,URS01 FOUR mco grn wht M MY23,UnReStricted 01 FOUR,Rival AXS Eagle,mco grn wht,M,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885552,Taiwan
+URS01_FOUR,30002510,URS01 FOUR mco grn wht L MY23,UnReStricted 01 FOUR,Rival AXS Eagle,mco grn wht,L,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885545,Taiwan
+URS01_FOUR,30002511,URS01 FOUR mco grn wht XL MY23,UnReStricted 01 FOUR,Rival AXS Eagle,mco grn wht,XL,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885637,Taiwan
+URS_ONE,30002512,URS ONE mco red grn S MY23,UnReStricted ONE,Rival 1x11,mco red grn,S,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885729,Taiwan
+URS_ONE,30002513,URS ONE mco red grn M MY23,UnReStricted ONE,Rival 1x11,mco red grn,M,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885712,Taiwan
+URS_ONE,30002514,URS ONE mco red grn L MY23,UnReStricted ONE,Rival 1x11,mco red grn,L,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885705,Taiwan
+URS_ONE,30002515,URS ONE mco red grn XL MY23,UnReStricted ONE,Rival 1x11,mco red grn,XL,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885699,Taiwan
+URS_TWO,30002516,URS TWO blu yel mco S MY23,UnReStricted TWO,Apex 1,blu yel mco,S,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885682,Taiwan
+URS_TWO,30002517,URS TWO blu yel mco M MY23,UnReStricted TWO,Apex 1,blu yel mco,M,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885675,Taiwan
+URS_TWO,30002518,URS TWO blu yel mco L MY23,UnReStricted TWO,Apex 1,blu yel mco,L,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885668,Taiwan
+URS_TWO,30002519,URS TWO blu yel mco XL MY23,UnReStricted TWO,Apex 1,blu yel mco,XL,2023,8712,BMC,Ja,Gravel,12.7,8.7,7630027885651,Taiwan
+URS_LT_ONE,30002520,URS LT ONE mst red blk S MY23,UnReStricted LT ONE,Force AXS Eagle,mst red blk,S,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885644,Taiwan
+URS_LT_ONE,30002521,URS LT ONE mst red blk M MY23,UnReStricted LT ONE,Force AXS Eagle,mst red blk,M,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885736,Taiwan
+URS_LT_ONE,30002522,URS LT ONE mst red blk L MY23,UnReStricted LT ONE,Force AXS Eagle,mst red blk,L,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885828,Taiwan
+URS_LT_ONE,30002523,URS LT ONE mst red blk XL MY23,UnReStricted LT ONE,Force AXS Eagle,mst red blk,XL,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885811,Taiwan
+URS_LT_TWO,30002524,URS LT TWO grn amb blk S MY23,UnReStricted LT TWO,Rival AXS Eagle,grn amb blk,S,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885804,Taiwan
+URS_LT_TWO,30002525,URS LT TWO grn amb blk M MY23,UnReStricted LT TWO,Rival AXS Eagle,grn amb blk,M,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885798,Taiwan
+URS_LT_TWO,30002526,URS LT TWO grn amb blk L MY23,UnReStricted LT TWO,Rival AXS Eagle,grn amb blk,L,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885781,Taiwan
+URS_LT_TWO,30002527,URS LT TWO grn amb blk XL MY23,UnReStricted LT TWO,Rival AXS Eagle,grn amb blk,XL,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885774,Taiwan
+URS_AL_ONE,30002528,URS AL ONE ora pet wht XS MY23,UnReStricted AL ONE,Rival 1x11,ora pet wht,XS,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885767,Taiwan
+URS_AL_ONE,30002529,URS AL ONE ora pet wht S MY23,UnReStricted AL ONE,Rival 1x11,ora pet wht,S,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885750,Taiwan
+URS_AL_ONE,30002530,URS AL ONE ora pet wht M MY23,UnReStricted AL ONE,Rival 1x11,ora pet wht,M,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885743,Taiwan
+URS_AL_ONE,30002531,URS AL ONE ora pet wht L MY23,UnReStricted AL ONE,Rival 1x11,ora pet wht,L,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885835,Taiwan
+URS_AL_ONE,30002532,URS AL ONE ora pet wht XL MY23,UnReStricted AL ONE,Rival 1x11,ora pet wht,XL,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885927,Taiwan
+URS_AL_TWO,30002533,URS AL TWO pet wht blk XS MY23,UnReStricted AL TWO,Apex 1,pet wht blk,XS,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885910,Taiwan
+URS_AL_TWO,30002534,URS AL TWO pet wht blk S MY23,UnReStricted AL TWO,Apex 1,pet wht blk,S,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885903,Taiwan
+URS_AL_TWO,30002535,URS AL TWO pet wht blk M MY23,UnReStricted AL TWO,Apex 1,pet wht blk,M,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885897,Taiwan
+URS_AL_TWO,30002536,URS AL TWO pet wht blk L MY23,UnReStricted AL TWO,Apex 1,pet wht blk,L,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885880,Taiwan
+URS_AL_TWO,30002537,URS AL TWO pet wht blk XL MY23,UnReStricted AL TWO,Apex 1,pet wht blk,XL,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885873,Taiwan
+URS_AL_THREE,30002538,URS AL THREE grn pnk blk XS MY23,UnReStricted AL THREE,GRX 400,grn pnk blk,XS,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885866,Taiwan
+URS_AL_THREE,30002539,URS AL THREE grn pnk blk S MY23,UnReStricted AL THREE,GRX 400,grn pnk blk,S,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885859,Taiwan
+URS_AL_THREE,30002540,URS AL THREE grn pnk blk M MY23,UnReStricted AL THREE,GRX 400,grn pnk blk,M,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885842,Taiwan
+URS_AL_THREE,30002541,URS AL THREE grn pnk blk L MY23,UnReStricted AL THREE,GRX 400,grn pnk blk,L,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027885934,Taiwan
+URS_AL_THREE,30002542,URS AL THREE grn pnk blk XL MY23,UnReStricted AL THREE,GRX 400,grn pnk blk,XL,2023,8712,BMC,Ja,Gravel,13.5,9.5,7630027886023,Taiwan
+TM01_DISC_ONE,30002545,TM01 DISC ONE cbn blk blk S MY23,Timemachine 01 DISC ONE,Force AXS HRD,cbn blk blk,S,2023,8712,BMC,Ja,Aero / Triathlon,13,9,7630027886009,Taiwan
+TM01_DISC_ONE,30002546,TM01 DISC ONE cbn blk blk M-S MY23,Timemachine 01 DISC ONE,Force AXS HRD,cbn blk blk,M-S,2023,8712,BMC,Ja,Aero / Triathlon,13,9,7630027885996,Taiwan
+TM01_DISC_ONE,30002547,TM01 DISC ONE cbn blk blk M-L MY23,Timemachine 01 DISC ONE,Force AXS HRD,cbn blk blk,M-L,2023,8712,BMC,Ja,Aero / Triathlon,13,9,7630027885989,Taiwan
+TM01_DISC_ONE,30002548,TM01 DISC ONE cbn blk blk L MY23,Timemachine 01 DISC ONE,Force AXS HRD,cbn blk blk,L,2023,8712,BMC,Ja,Aero / Triathlon,13,9,7630027885972,Taiwan
+TM01_DISC_TWO,30002549,TM01 DISC TWO wht blk cbn S MY23,Timemachine 01 DISC TWO,Rival AXS HRD,wht blk cbn,S,2023,8712,BMC,Ja,Aero / Triathlon,13,9,7630027885965,Taiwan
+TM01_DISC_TWO,30002550,TM01 DISC TWO wht blk cbn M-S MY23,Timemachine 01 DISC TWO,Rival AXS HRD,wht blk cbn,M-S,2023,8712,BMC,Ja,Aero / Triathlon,13,9,7630027885958,Taiwan
+TM01_DISC_TWO,30002551,TM01 DISC TWO wht blk cbn M-L MY23,Timemachine 01 DISC TWO,Rival AXS HRD,wht blk cbn,M-L,2023,8712,BMC,Ja,Aero / Triathlon,13,9,7630027885941,Taiwan
+TM01_DISC_TWO,30002552,TM01 DISC TWO wht blk cbn L MY23,Timemachine 01 DISC TWO,Rival AXS HRD,wht blk cbn,L,2023,8712,BMC,Ja,Aero / Triathlon,13,9,7630027886030,Taiwan
+TM01_Disc_FRS_VAR1,30002553,TM01 DISC FRS V1 tur blk cbn S MY23,Timemachine 01 DISC FRS V1,Frameset,tur blk cbn,S,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886122,Taiwan
+TM01_Disc_FRS_VAR1,30002554,TM01 DISC FRS V1 tur blk cbn M-S MY23,Timemachine 01 DISC FRS V1,Frameset,tur blk cbn,M-S,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886115,Taiwan
+TM01_Disc_FRS_VAR1,30002555,TM01 DISC FRS V1 tur blk cbn M-L MY23,Timemachine 01 DISC FRS V1,Frameset,tur blk cbn,M-L,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886108,Taiwan
+TM01_Disc_FRS_VAR1,30002556,TM01 DISC FRS V1 tur blk cbn L MY23,Timemachine 01 DISC FRS V1,Frameset,tur blk cbn,L,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886092,Taiwan
+TM_ONE,30002557,TM ONE red blk cbn S MY23,Timemachine ONE,105,red blk cbn,S,2023,8712,BMC,Ja,Aero / Triathlon,12.8,8.8,7630027886085,Taiwan
+TM_ONE,30002558,TM ONE red blk cbn M-S MY23,Timemachine ONE,105,red blk cbn,M-S,2023,8712,BMC,Ja,Aero / Triathlon,12.8,8.8,7630027886078,Taiwan
+TM_ONE,30002559,TM ONE red blk cbn M-L MY23,Timemachine ONE,105,red blk cbn,M-L,2023,8712,BMC,Ja,Aero / Triathlon,12.8,8.8,7630027886061,Taiwan
+TM_ONE,30002560,TM ONE red blk cbn L MY23,Timemachine ONE,105,red blk cbn,L,2023,8712,BMC,Ja,Aero / Triathlon,12.8,8.8,7630027886054,Taiwan
+TM01_ROAD_ONE,30002562,TM01 ROAD ONE cbn wht wht 47 MY23,Timemachine 01 ROAD ONE,Dura Ace Di2,cbn wht wht,47,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886047,Taiwan
+TM01_ROAD_ONE,30002563,TM01 ROAD ONE cbn wht wht 51 MY23,Timemachine 01 ROAD ONE,Dura Ace Di2,cbn wht wht,51,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886139,Taiwan
+TM01_ROAD_ONE,30002564,TM01 ROAD ONE cbn wht wht 54 MY23,Timemachine 01 ROAD ONE,Dura Ace Di2,cbn wht wht,54,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886221,Taiwan
+TM01_ROAD_ONE,30002565,TM01 ROAD ONE cbn wht wht 56 MY23,Timemachine 01 ROAD ONE,Dura Ace Di2,cbn wht wht,56,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886214,Taiwan
+TM01_ROAD_ONE,30002566,TM01 ROAD ONE cbn wht wht 58 MY23,Timemachine 01 ROAD ONE,Dura Ace Di2,cbn wht wht,58,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886207,Taiwan
+TM01_ROAD_ONE,30002567,TM01 ROAD ONE cbn wht wht 61 MY23,Timemachine 01 ROAD ONE,Dura Ace Di2,cbn wht wht,61,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886191,Taiwan
+TM01_ROAD_TWO,30002568,TM01 ROAD TWO wht blk red 47 MY23,Timemachine 01 ROAD TWO,Ultegra Di2,wht blk red,47,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886184,Taiwan
+TM01_ROAD_TWO,30002569,TM01 ROAD TWO wht blk red 51 MY23,Timemachine 01 ROAD TWO,Ultegra Di2,wht blk red,51,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886177,Taiwan
+TM01_ROAD_TWO,30002570,TM01 ROAD TWO wht blk red 54 MY23,Timemachine 01 ROAD TWO,Ultegra Di2,wht blk red,54,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886160,Taiwan
+TM01_ROAD_TWO,30002571,TM01 ROAD TWO wht blk red 56 MY23,Timemachine 01 ROAD TWO,Ultegra Di2,wht blk red,56,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886153,Taiwan
+TM01_ROAD_TWO,30002572,TM01 ROAD TWO wht blk red 58 MY23,Timemachine 01 ROAD TWO,Ultegra Di2,wht blk red,58,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886146,Taiwan
+TM01_ROAD_TWO,30002573,TM01 ROAD TWO wht blk red 61 MY23,Timemachine 01 ROAD TWO,Ultegra Di2,wht blk red,61,2023,8712,BMC,Ja,Aero / Triathlon,12,8,7630027886238,Taiwan
+TM01_ROAD_THREE,30002574,TM01 ROAD THREE gry blk cbn 47 MY23,Timemachine 01 ROAD THREE,Rival AXS HRD,gry blk cbn,47,2023,8712,BMC,Ja,Aero / Triathlon,12.2,8.2,7630027886320,Taiwan
+TM01_ROAD_THREE,30002575,TM01 ROAD THREE gry blk cbn 51 MY23,Timemachine 01 ROAD THREE,Rival AXS HRD,gry blk cbn,51,2023,8712,BMC,Ja,Aero / Triathlon,12.2,8.2,7630027886313,Taiwan
+TM01_ROAD_THREE,30002576,TM01 ROAD THREE gry blk cbn 54 MY23,Timemachine 01 ROAD THREE,Rival AXS HRD,gry blk cbn,54,2023,8712,BMC,Ja,Aero / Triathlon,12.2,8.2,7630027886306,Taiwan
+TM01_ROAD_THREE,30002577,TM01 ROAD THREE gry blk cbn 56 MY23,Timemachine 01 ROAD THREE,Rival AXS HRD,gry blk cbn,56,2023,8712,BMC,Ja,Aero / Triathlon,12.2,8.2,7630027886290,Taiwan
+TM01_ROAD_THREE,30002578,TM01 ROAD THREE gry blk cbn 58 MY23,Timemachine 01 ROAD THREE,Rival AXS HRD,gry blk cbn,58,2023,8712,BMC,Ja,Aero / Triathlon,12.2,8.2,7630027886283,Taiwan
+TM01_ROAD_THREE,30002579,TM01 ROAD THREE gry blk cbn 61 MY23,Timemachine 01 ROAD THREE,Rival AXS HRD,gry blk cbn,61,2023,8712,BMC,Ja,Aero / Triathlon,12.2,8.2,7630027886276,Taiwan
+TM01_ROAD_MOD_VAR1,30002580,TM01 ROAD MOD V1 cbn blk blk 47 MY23,Timemachine 01 ROAD MOD V1,Module,cbn blk blk,47,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886269,Taiwan
+TM01_ROAD_MOD_VAR1,30002581,TM01 ROAD MOD V1 cbn blk blk 51 MY23,Timemachine 01 ROAD MOD V1,Module,cbn blk blk,51,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886252,Taiwan
+TM01_ROAD_MOD_VAR1,30002582,TM01 ROAD MOD V1 cbn blk blk 54 MY23,Timemachine 01 ROAD MOD V1,Module,cbn blk blk,54,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886245,Taiwan
+TM01_ROAD_MOD_VAR1,30002583,TM01 ROAD MOD V1 cbn blk blk 56 MY23,Timemachine 01 ROAD MOD V1,Module,cbn blk blk,56,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886337,Taiwan
+TM01_ROAD_MOD_VAR1,30002584,TM01 ROAD MOD V1 cbn blk blk 58 MY23,Timemachine 01 ROAD MOD V1,Module,cbn blk blk,58,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886429,Taiwan
+TM01_ROAD_MOD_VAR1,30002585,TM01 ROAD MOD V1 cbn blk blk 61 MY23,Timemachine 01 ROAD MOD V1,Module,cbn blk blk,61,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027886412,Taiwan
+TR01_FRS_VAR1,30002586,TR01 FRS V1 cbn wht cbn S MY23,Trackmachine 01 FRS V1,Frameset,cbn wht cbn,S,2023,8714.919,BMC,Ja,Track,9,5,7630027886405,Taiwan
+TR01_FRS_VAR1,30002587,TR01 FRS V1 cbn wht cbn M MY23,Trackmachine 01 FRS V1,Frameset,cbn wht cbn,M,2023,8714.919,BMC,Ja,Track,9,5,7630027886399,Taiwan
+TR01_FRS_VAR1,30002588,TR01 FRS V1 cbn wht cbn L MY23,Trackmachine 01 FRS V1,Frameset,cbn wht cbn,L,2023,8714.919,BMC,Ja,Track,9,5,7630027886382,Taiwan
+TR_AL_ONE,30002589,TR AL ONE blk red cbn S MY23,Trackmachine AL ONE,Miche,blk red cbn,S,2023,8712,BMC,Ja,Track,11.2,7.2,7630027886375,Taiwan
+TR_AL_ONE,30002590,TR AL ONE blk red cbn M MY23,Trackmachine AL ONE,Miche,blk red cbn,M,2023,8712,BMC,Ja,Track,11.2,7.2,7630027886368,Taiwan
+TR_AL_ONE,30002591,TR AL ONE blk red cbn L MY23,Trackmachine AL ONE,Miche,blk red cbn,L,2023,8712,BMC,Ja,Track,11.2,7.2,7630027886351,Taiwan
+TS01_ONE,30002592,TS01 ONE iri bru bru S MY23,Twostroke 01 ONE,GX Eagle AXS,iri bru bru,S,2023,8712,BMC,Ja,Cross-Country,13.3,9.3,7630027886344,Taiwan
+TS01_ONE,30002593,TS01 ONE iri bru bru M MY23,Twostroke 01 ONE,GX Eagle AXS,iri bru bru,M,2023,8712,BMC,Ja,Cross-Country,13.3,9.3,7630027886436,Taiwan
+TS01_ONE,30002594,TS01 ONE iri bru bru L MY23,Twostroke 01 ONE,GX Eagle AXS,iri bru bru,L,2023,8712,BMC,Ja,Cross-Country,13.3,9.3,7630027886528,Taiwan
+TS01_ONE,30002595,TS01 ONE iri bru bru XL MY23,Twostroke 01 ONE,GX Eagle AXS,iri bru bru,XL,2023,8712,BMC,Ja,Cross-Country,13.3,9.3,7630027886511,Taiwan
+TS01_TWO,30002596,TS01 TWO iri wht blk S MY23,Twostroke 01 TWO,X01 Eagle mix,iri wht blk,S,2023,8712,BMC,Ja,Cross-Country,13.7,9.7,7630027886504,Taiwan
+TS01_TWO,30002597,TS01 TWO iri wht blk M MY23,Twostroke 01 TWO,X01 Eagle mix,iri wht blk,M,2023,8712,BMC,Ja,Cross-Country,13.7,9.7,7630027886498,Taiwan
+TS01_TWO,30002598,TS01 TWO iri wht blk L MY23,Twostroke 01 TWO,X01 Eagle mix,iri wht blk,L,2023,8712,BMC,Ja,Cross-Country,13.7,9.7,7630027886481,Taiwan
+TS01_TWO,30002599,TS01 TWO iri wht blk XL MY23,Twostroke 01 TWO,X01 Eagle mix,iri wht blk,XL,2023,8712,BMC,Ja,Cross-Country,13.7,9.7,7630027886474,Taiwan
+TS01_THREE,30002600,TS01 THREE gry iri blk S MY23,Twostroke 01 THREE,GX Eagle,gry iri blk,S,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886467,Taiwan
+TS01_THREE,30002601,TS01 THREE gry iri blk M MY23,Twostroke 01 THREE,GX Eagle,gry iri blk,M,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886450,Taiwan
+TS01_THREE,30002602,TS01 THREE gry iri blk L MY23,Twostroke 01 THREE,GX Eagle,gry iri blk,L,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886443,Taiwan
+TS01_THREE,30002603,TS01 THREE gry iri blk XL MY23,Twostroke 01 THREE,GX Eagle,gry iri blk,XL,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886535,Taiwan
+TS01_FOUR,30002604,TS01 FOUR red blk blk S MY23,Twostroke 01 FOUR,GX Eagle mix,red blk blk,S,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886627,Taiwan
+TS01_FOUR,30002605,TS01 FOUR red blk blk M MY23,Twostroke 01 FOUR,GX Eagle mix,red blk blk,M,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886610,Taiwan
+TS01_FOUR,30002606,TS01 FOUR red blk blk L MY23,Twostroke 01 FOUR,GX Eagle mix,red blk blk,L,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886603,Taiwan
+TS01_FOUR,30002607,TS01 FOUR red blk blk XL MY23,Twostroke 01 FOUR,GX Eagle mix,red blk blk,XL,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886597,Taiwan
+TS01_FIVE,30002608,TS01 FIVE cbn wht gry S MY23,Twostroke 01 FIVE,Deore 1x12,cbn wht gry,S,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886580,Taiwan
+TS01_FIVE,30002609,TS01 FIVE cbn wht gry M MY23,Twostroke 01 FIVE,Deore 1x12,cbn wht gry,M,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886573,Taiwan
+TS01_FIVE,30002610,TS01 FIVE cbn wht gry L MY23,Twostroke 01 FIVE,Deore 1x12,cbn wht gry,L,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886566,Taiwan
+TS01_FIVE,30002611,TS01 FIVE cbn wht gry XL MY23,Twostroke 01 FIVE,Deore 1x12,cbn wht gry,XL,2023,8712,BMC,Ja,Cross-Country,15.4,11.4,7630027886559,Taiwan
+TS01_FRS_VAR1,30002612,TS01 FRS V1 cbn wht gry S MY23,Twostroke 01 FRS V1,Frameset,cbn wht gry,S,2023,8714.919,BMC,Ja,Cross-Country,8,4,7630027886542,Taiwan
+TS01_FRS_VAR1,30002613,TS01 FRS V1 cbn wht gry M MY23,Twostroke 01 FRS V1,Frameset,cbn wht gry,M,2023,8714.919,BMC,Ja,Cross-Country,8,4,7630027886634,Taiwan
+TS01_FRS_VAR1,30002614,TS01 FRS V1 cbn wht gry L MY23,Twostroke 01 FRS V1,Frameset,cbn wht gry,L,2023,8714.919,BMC,Ja,Cross-Country,8,4,7630027886726,Taiwan
+TS01_FRS_VAR1,30002615,TS01 FRS V1 cbn wht gry XL MY23,Twostroke 01 FRS V1,Frameset,cbn wht gry,XL,2023,8714.919,BMC,Ja,Cross-Country,8,4,7630027886719,Taiwan
+TS_AL_ONE,30002616,TS AL ONE grn blk sil S MY23,Twostroke AL ONE,NX Eagle,grn blk sil,S,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886702,Taiwan
+TS_AL_ONE,30002617,TS AL ONE grn blk sil M MY23,Twostroke AL ONE,NX Eagle,grn blk sil,M,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886696,Taiwan
+TS_AL_ONE,30002618,TS AL ONE grn blk sil L MY23,Twostroke AL ONE,NX Eagle,grn blk sil,L,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886689,Taiwan
+TS_AL_ONE,30002619,TS AL ONE grn blk sil XL MY23,Twostroke AL ONE,NX Eagle,grn blk sil,XL,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886672,Taiwan
+TS_AL_TWO,30002620,TS AL TWO tur blk wht S MY23,Twostroke AL TWO,NX Eagle mix,tur blk wht,S,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886665,Taiwan
+TS_AL_TWO,30002621,TS AL TWO tur blk wht M MY23,Twostroke AL TWO,NX Eagle mix,tur blk wht,M,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886658,Taiwan
+TS_AL_TWO,30002622,TS AL TWO tur blk wht L MY23,Twostroke AL TWO,NX Eagle mix,tur blk wht,L,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886641,Taiwan
+TS_AL_TWO,30002623,TS AL TWO tur blk wht XL MY23,Twostroke AL TWO,NX Eagle mix,tur blk wht,XL,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886733,Taiwan
+TS_AL_THREE,30002624,TS AL THREE blk bru bru S MY23,Twostroke AL THREE,Deore 1x12 mix,blk bru bru,S,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886825,Taiwan
+TS_AL_THREE,30002625,TS AL THREE blk bru bru M MY23,Twostroke AL THREE,Deore 1x12 mix,blk bru bru,M,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886818,Taiwan
+TS_AL_THREE,30002626,TS AL THREE blk bru bru L MY23,Twostroke AL THREE,Deore 1x12 mix,blk bru bru,L,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886801,Taiwan
+TS_AL_THREE,30002627,TS AL THREE blk bru bru XL MY23,Twostroke AL THREE,Deore 1x12 mix,blk bru bru,XL,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886795,Taiwan
+TS_AL_FOUR,30002628,TS AL FOUR red gry gry S MY23,Twostroke AL FOUR,SX Eagle mix,red gry gry,S,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886788,Taiwan
+TS_AL_FOUR,30002629,TS AL FOUR red gry gry M MY23,Twostroke AL FOUR,SX Eagle mix,red gry gry,M,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886771,Taiwan
+TS_AL_FOUR,30002630,TS AL FOUR red gry gry L MY23,Twostroke AL FOUR,SX Eagle mix,red gry gry,L,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886764,Taiwan
+TS_AL_FOUR,30002631,TS AL FOUR red gry gry XL MY23,Twostroke AL FOUR,SX Eagle mix,red gry gry,XL,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886757,Taiwan
+TS_AL_FIVE,30002632,TS AL FIVE wht blk sil S MY23,Twostroke AL FIVE,Deore 1x11 mix,wht blk sil,S,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886740,Taiwan
+TS_AL_FIVE,30002633,TS AL FIVE wht blk sil M MY23,Twostroke AL FIVE,Deore 1x11 mix,wht blk sil,M,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886832,Taiwan
+TS_AL_FIVE,30002634,TS AL FIVE wht blk sil L MY23,Twostroke AL FIVE,Deore 1x11 mix,wht blk sil,L,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886924,Taiwan
+TS_AL_FIVE,30002635,TS AL FIVE wht blk sil XL MY23,Twostroke AL FIVE,Deore 1x11 mix,wht blk sil,XL,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886917,Taiwan
+TS_AL_SIX,30002636,TS AL SIX gry blk red S MY23,Twostroke AL SIX,Deore 1x10 mix,gry blk red,S,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886900,Taiwan
+TS_AL_SIX,30002637,TS AL SIX gry blk red M MY23,Twostroke AL SIX,Deore 1x10 mix,gry blk red,M,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886894,Taiwan
+TS_AL_SIX,30002638,TS AL SIX gry blk red L MY23,Twostroke AL SIX,Deore 1x10 mix,gry blk red,L,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886887,Taiwan
+TS_AL_SIX,30002639,TS AL SIX gry blk red XL MY23,Twostroke AL SIX,Deore 1x10 mix,gry blk red,XL,2023,8712,BMC,Ja,Cross-Country,16.8,12.8,7630027886870,Taiwan
+FS01_LTD,30002640,FS01 LTD red wht wht S MY23,Fourstroke 01 LTD,XX1 Eagle AXS,red wht wht,S,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886863,Taiwan
+FS01_LTD,30002641,FS01 LTD red wht wht M MY23,Fourstroke 01 LTD,XX1 Eagle AXS,red wht wht,M,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886856,Taiwan
+FS01_LTD,30002642,FS01 LTD red wht wht L MY23,Fourstroke 01 LTD,XX1 Eagle AXS,red wht wht,L,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886849,Taiwan
+FS01_LTD,30002643,FS01 LTD red wht wht XL MY23,Fourstroke 01 LTD,XX1 Eagle AXS,red wht wht,XL,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886931,Taiwan
+FS01_ONE,30002644,FS01 ONE tur blk cbn S MY23,Fourstroke 01 ONE,X01 Eagle AXS,tur blk cbn,S,2023,8712,BMC,Ja,Cross-Country,15,11,7630027887020,Taiwan
+FS01_ONE,30002645,FS01 ONE tur blk cbn M MY23,Fourstroke 01 ONE,X01 Eagle AXS,tur blk cbn,M,2023,8712,BMC,Ja,Cross-Country,15,11,7630027887013,Taiwan
+FS01_ONE,30002646,FS01 ONE tur blk cbn L MY23,Fourstroke 01 ONE,X01 Eagle AXS,tur blk cbn,L,2023,8712,BMC,Ja,Cross-Country,15,11,7630027887006,Taiwan
+FS01_ONE,30002647,FS01 ONE tur blk cbn XL MY23,Fourstroke 01 ONE,X01 Eagle AXS,tur blk cbn,XL,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886993,Taiwan
+FS01_TWO,30002648,FS01 TWO yel blk cbn S MY23,Fourstroke 01 TWO,GX Eagle AXS,yel blk cbn,S,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886986,Taiwan
+FS01_TWO,30002649,FS01 TWO yel blk cbn M MY23,Fourstroke 01 TWO,GX Eagle AXS,yel blk cbn,M,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886979,Taiwan
+FS01_TWO,30002650,FS01 TWO yel blk cbn L MY23,Fourstroke 01 TWO,GX Eagle AXS,yel blk cbn,L,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886962,Taiwan
+FS01_TWO,30002651,FS01 TWO yel blk cbn XL MY23,Fourstroke 01 TWO,GX Eagle AXS,yel blk cbn,XL,2023,8712,BMC,Ja,Cross-Country,15,11,7630027886955,Taiwan
+FS01_FRS_VAR1,30002652,FS01 FRS V1 wht blk cbn S MY23,Fourstroke01 FRS V1,FRS + AD + Rear Shock,wht blk cbn,S,2023,8714.919,BMC,Ja,Cross-Country,8,4,7630027886948,Taiwan
+FS01_FRS_VAR1,30002653,FS01 FRS V1 wht blk cbn M MY23,Fourstroke01 FRS V1,FRS + AD + Rear Shock,wht blk cbn,M,2023,8714.919,BMC,Ja,Cross-Country,8,4,7630027887037,Taiwan
+FS01_FRS_VAR1,30002654,FS01 FRS V1 wht blk cbn L MY23,Fourstroke01 FRS V1,FRS + AD + Rear Shock,wht blk cbn,L,2023,8714.919,BMC,Ja,Cross-Country,8,4,7630027887129,Taiwan
+FS01_FRS_VAR1,30002655,FS01 FRS V1 wht blk cbn XL MY23,Fourstroke01 FRS V1,FRS + AD + Rear Shock,wht blk cbn,XL,2023,8714.919,BMC,Ja,Cross-Country,8,4,7630027887112,Taiwan
+FS_ONE,30002656,FS ONE prp wht wht S MY23,Fourstroke ONE,GX Eagle AXS,prp wht wht,S,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887105,Taiwan
+FS_ONE,30002657,FS ONE prp wht wht M MY23,Fourstroke ONE,GX Eagle AXS,prp wht wht,M,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887099,Taiwan
+FS_ONE,30002658,FS ONE prp wht wht L MY23,Fourstroke ONE,GX Eagle AXS,prp wht wht,L,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887082,Taiwan
+FS_ONE,30002659,FS ONE prp wht wht XL MY23,Fourstroke ONE,GX Eagle AXS,prp wht wht,XL,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887075,Taiwan
+FS_TWO,30002660,FS TWO cbn red red S MY23,Fourstroke TWO,XT,cbn red red,S,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887068,Taiwan
+FS_TWO,30002661,FS TWO cbn red red M MY23,Fourstroke TWO,XT,cbn red red,M,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887051,Taiwan
+FS_TWO,30002662,FS TWO cbn red red L MY23,Fourstroke TWO,XT,cbn red red,L,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887044,Taiwan
+FS_TWO,30002663,FS TWO cbn red red XL MY23,Fourstroke TWO,XT,cbn red red,XL,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887136,Taiwan
+FS_THREE,30002664,FS THREE cbn wht wht S MY23,Fourstroke THREE,SLX,cbn wht wht,S,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887228,Taiwan
+FS_THREE,30002665,FS THREE cbn wht wht M MY23,Fourstroke THREE,SLX,cbn wht wht,M,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887211,Taiwan
+FS_THREE,30002666,FS THREE cbn wht wht L MY23,Fourstroke THREE,SLX,cbn wht wht,L,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887204,Taiwan
+FS_THREE,30002667,FS THREE cbn wht wht XL MY23,Fourstroke THREE,SLX,cbn wht wht,XL,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887198,Taiwan
+FS_FOUR,30002668,FS FOUR gry blk cbn S MY23,Fourstroke FOUR,SLX Mix,gry blk cbn,S,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887181,Taiwan
+FS_FOUR,30002669,FS FOUR gry blk cbn M MY23,Fourstroke FOUR,SLX Mix,gry blk cbn,M,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887174,Taiwan
+FS_FOUR,30002670,FS FOUR gry blk cbn L MY23,Fourstroke FOUR,SLX Mix,gry blk cbn,L,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887167,Taiwan
+FS_FOUR,30002671,FS FOUR gry blk cbn XL MY23,Fourstroke FOUR,SLX Mix,gry blk cbn,XL,2023,8712,BMC,Ja,Cross-Country,16,12,7630027887150,Taiwan
+FS_LT_LTD,30002672,FS LT LTD prp blk cbn S MY23,Fourstroke LTD LT,X01 Eagle AXS,prp blk cbn,S,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887143,Taiwan
+FS_LT_LTD,30002673,FS LT LTD prp blk cbn M MY23,Fourstroke LTD LT,X01 Eagle AXS,prp blk cbn,M,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887235,Taiwan
+FS_LT_LTD,30002674,FS LT LTD prp blk cbn L MY23,Fourstroke LTD LT,X01 Eagle AXS,prp blk cbn,L,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887327,Taiwan
+FS_LT_LTD,30002675,FS LT LTD prp blk cbn XL MY23,Fourstroke LTD LT,X01 Eagle AXS,prp blk cbn,XL,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887310,Taiwan
+FS_LT_ONE,30002676,FS LT ONE snd wht wht S MY23,Fourstroke ONE LT,SLX,snd wht wht,S,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887303,Taiwan
+FS_LT_ONE,30002677,FS LT ONE snd wht wht M MY23,Fourstroke ONE LT,SLX,snd wht wht,M,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887297,Taiwan
+FS_LT_ONE,30002678,FS LT ONE snd wht wht L MY23,Fourstroke ONE LT,SLX,snd wht wht,L,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887280,Taiwan
+FS_LT_ONE,30002679,FS LT ONE snd wht wht XL MY23,Fourstroke ONE LT,SLX,snd wht wht,XL,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887273,Taiwan
+FS_LT_TWO,30002680,FS LT TWO grn blk cbn S MY23,Fourstroke TWO LT,SLX Mix,grn blk cbn,S,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887266,Taiwan
+FS_LT_TWO,30002681,FS LT TWO grn blk cbn M MY23,Fourstroke TWO LT,SLX Mix,grn blk cbn,M,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887259,Taiwan
+FS_LT_TWO,30002682,FS LT TWO grn blk cbn L MY23,Fourstroke TWO LT,SLX Mix,grn blk cbn,L,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887242,Taiwan
+FS_LT_TWO,30002683,FS LT TWO grn blk cbn XL MY23,Fourstroke TWO LT,SLX Mix,grn blk cbn,XL,2023,8712,BMC,Ja,Cross-Country,16.5,12.5,7630027887334,Taiwan
+TS_AL_27_VAR1,30002684,TS AL 27 VAR1 tur blk wht 27 MY23,Twostroke AL 27,Deore 1x10,tur blk wht,27,2023,8712,BMC,Ja,Cross-Country,15,10,7630027887426,Taiwan
+TS_AL_24_VAR1,30002685,TS AL 24 V1 gry blk red 24 MY23,Twostroke AL 24 V1,X4 1x8,gry blk red,24,2023,8712,BMC,Ja,Cross-Country,15,10,7630027887419,Taiwan
+TS_AL_24_VAR2,30002686,TS AL 24 V2 red gry gry 24 MY23,Twostroke AL 24 V2,X4 1x8,red gry gry,24,2023,8712,BMC,Ja,Cross-Country,15,10,7630027887402,Taiwan
+TS_AL_20_VAR1,30002687,TS AL 20 V1 grn blk sil 20 MY23,Twostroke AL 20 V1,X4 1x8,grn blk sil,20,2023,8712,BMC,Ja,Cross-Country,15,10,7630027887396,Taiwan
+TS_AL_20_VAR2,30002688,TS AL 20 V2 tur blk wht 20 MY23,Twostroke AL 20 V2,X4 1x8,tur blk wht,20,2023,8712,BMC,Ja,Cross-Country,15,10,7630027887389,Taiwan
+AC_AL_ONE,30002689,AC AL ONE blu red red S MY23,Alpenchallenge AL ONE,GX Eagle AXS,blu red red,S,2023,8712,BMC,Ja,Active,17,13,7630027887372,Taiwan
+AC_AL_ONE,30002690,AC AL ONE blu red red M MY23,Alpenchallenge AL ONE,GX Eagle AXS,blu red red,M,2023,8712,BMC,Ja,Active,17,13,7630027887365,Taiwan
+AC_AL_ONE,30002691,AC AL ONE blu red red L MY23,Alpenchallenge AL ONE,GX Eagle AXS,blu red red,L,2023,8712,BMC,Ja,Active,17,13,7630027887358,Taiwan
+AC_AL_ONE,30002692,AC AL ONE blu red red XL MY23,Alpenchallenge AL ONE,GX Eagle AXS,blu red red,XL,2023,8712,BMC,Ja,Active,17,13,7630027887341,Taiwan
+AC_AL_TWO,30002693,AC AL TWO sil blk blk S MY23,Alpenchallenge AL TWO,GX Eagle,sil blk blk,S,2023,8712,BMC,Ja,Active,17,13,7630027887433,Taiwan
+AC_AL_TWO,30002694,AC AL TWO sil blk blk M MY23,Alpenchallenge AL TWO,GX Eagle,sil blk blk,M,2023,8712,BMC,Ja,Active,17,13,7630027887525,Taiwan
+AC_AL_TWO,30002695,AC AL TWO sil blk blk L MY23,Alpenchallenge AL TWO,GX Eagle,sil blk blk,L,2023,8712,BMC,Ja,Active,17,13,7630027887518,Taiwan
+AC_AL_TWO,30002696,AC AL TWO sil blk blk XL MY23,Alpenchallenge AL TWO,GX Eagle,sil blk blk,XL,2023,8712,BMC,Ja,Active,17,13,7630027887501,Taiwan
+AC_AL_THREE,30002697,AC AL THREE blk gry gry S MY23,Alpenchallenge AL THREE,Deore 1x12,blk gry gry,S,2023,8712,BMC,Ja,Active,17,13,7630027887495,Taiwan
+AC_AL_THREE,30002698,AC AL THREE blk gry gry M MY23,Alpenchallenge AL THREE,Deore 1x12,blk gry gry,M,2023,8712,BMC,Ja,Active,17,13,7630027887488,Taiwan
+AC_AL_THREE,30002699,AC AL THREE blk gry gry L MY23,Alpenchallenge AL THREE,Deore 1x12,blk gry gry,L,2023,8712,BMC,Ja,Active,17,13,7630027887471,Taiwan
+AC_AL_THREE,30002700,AC AL THREE blk gry gry XL MY23,Alpenchallenge AL THREE,Deore 1x12,blk gry gry,XL,2023,8712,BMC,Ja,Active,17,13,7630027887464,Taiwan
+AC_AL_FOUR,30002701,AC AL FOUR red blk blk S MY23,Alpenchallenge AL FOUR,Deore 1x11,red blk blk,S,2023,8712,BMC,Ja,Active,17,13,7630027887457,Taiwan
+AC_AL_FOUR,30002702,AC AL FOUR red blk blk M MY23,Alpenchallenge AL FOUR,Deore 1x11,red blk blk,M,2023,8712,BMC,Ja,Active,17,13,7630027887440,Taiwan
+AC_AL_FOUR,30002703,AC AL FOUR red blk blk L MY23,Alpenchallenge AL FOUR,Deore 1x11,red blk blk,L,2023,8712,BMC,Ja,Active,17,13,7630027887532,Taiwan
+AC_AL_FOUR,30002704,AC AL FOUR red blk blk XL MY23,Alpenchallenge AL FOUR,Deore 1x11,red blk blk,XL,2023,8712,BMC,Ja,Active,17,13,7630027887624,Taiwan
+AMP_RM01_TWO,30002735,AMP RM01 TWO red blk blk 47 MY23,Roadmachine 01 AMP TWO,"GRX Di2, (new e-drive)",red blk blk,47,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887914,Polen
+AMP_RM01_TWO,30002736,AMP RM01 TWO red blk blk 51 MY23,Roadmachine 01 AMP TWO,"GRX Di2, (new e-drive)",red blk blk,51,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887907,Polen
+AMP_RM01_TWO,30002737,AMP RM01 TWO red blk blk 54 MY23,Roadmachine 01 AMP TWO,"GRX Di2, (new e-drive)",red blk blk,54,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887891,Polen
+AMP_RM01_TWO,30002738,AMP RM01 TWO red blk blk 56 MY23,Roadmachine 01 AMP TWO,"GRX Di2, (new e-drive)",red blk blk,56,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887884,Polen
+AMP_RM01_TWO,30002739,AMP RM01 TWO red blk blk 58 MY23,Roadmachine 01 AMP TWO,"GRX Di2, (new e-drive)",red blk blk,58,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887877,Polen
+AMP_RM01_TWO,30002740,AMP RM01 TWO red blk blk 61 MY23,Roadmachine 01 AMP TWO,"GRX Di2, (new e-drive)",red blk blk,61,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887860,Polen
+AMP_RM01_TWO_USA,30002741,AMP RM01 TWO USA red blk blk 47 MY23,Roadmachine 01 AMP TWO USA,"GRX Di2, (new e-drive US)",red blk blk,47,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887853,Polen
+AMP_RM01_TWO_USA,30002742,AMP RM01 TWO USA red blk blk 51 MY23,Roadmachine 01 AMP TWO USA,"GRX Di2, (new e-drive US)",red blk blk,51,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887846,Polen
+AMP_RM01_TWO_USA,30002743,AMP RM01 TWO USA red blk blk 54 MY23,Roadmachine 01 AMP TWO USA,"GRX Di2, (new e-drive US)",red blk blk,54,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027887938,Polen
+AMP_RM01_TWO_USA,30002744,AMP RM01 TWO USA red blk blk 56 MY23,Roadmachine 01 AMP TWO USA,"GRX Di2, (new e-drive US)",red blk blk,56,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027888027,Polen
+AMP_RM01_TWO_USA,30002745,AMP RM01 TWO USA red blk blk 58 MY23,Roadmachine 01 AMP TWO USA,"GRX Di2, (new e-drive US)",red blk blk,58,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027888010,Polen
+AMP_RM01_TWO_USA,30002746,AMP RM01 TWO USA red blk blk 61 MY23,Roadmachine 01 AMP TWO USA,"GRX Di2, (new e-drive US)",red blk blk,61,2023,8711.609,BMC,Ja,AMP Endurance,17,13,7630027888003,Polen
+AMP_RM01_X_ONE,30002759,AMP RM01 X ONE blu blk blk 47 MY23,Roadmachine 01 AMP X ONE,"Force AXS XPLR, (new e-drive)",blu blk blk,47,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888072,Polen
+AMP_RM01_X_ONE,30002760,AMP RM01 X ONE blu blk blk 51 MY23,Roadmachine 01 AMP X ONE,"Force AXS XPLR, (new e-drive)",blu blk blk,51,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888065,Polen
+AMP_RM01_X_ONE,30002761,AMP RM01 X ONE blu blk blk 54 MY23,Roadmachine 01 AMP X ONE,"Force AXS XPLR, (new e-drive)",blu blk blk,54,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888058,Polen
+AMP_RM01_X_ONE,30002762,AMP RM01 X ONE blu blk blk 56 MY23,Roadmachine 01 AMP X ONE,"Force AXS XPLR, (new e-drive)",blu blk blk,56,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888041,Polen
+AMP_RM01_X_ONE,30002763,AMP RM01 X ONE blu blk blk 58 MY23,Roadmachine 01 AMP X ONE,"Force AXS XPLR, (new e-drive)",blu blk blk,58,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888133,Polen
+AMP_RM01_X_ONE,30002764,AMP RM01 X ONE blu blk blk 61 MY23,Roadmachine 01 AMP X ONE,"Force AXS XPLR, (new e-drive)",blu blk blk,61,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888225,Polen
+AMP_RM01_X_ONE_USA,30002765,AMP RM01 X ONE USA blu blk blk 47 MY23,Roadmachine 01 AMP X ONE USA,"Force AXS XPLR, (new e-drive US)",blu blk blk,47,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888218,Polen
+AMP_RM01_X_ONE_USA,30002766,AMP RM01 X ONE USA blu blk blk 51 MY23,Roadmachine 01 AMP X ONE USA,"Force AXS XPLR, (new e-drive US)",blu blk blk,51,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888201,Polen
+AMP_RM01_X_ONE_USA,30002767,AMP RM01 X ONE USA blu blk blk 54 MY23,Roadmachine 01 AMP X ONE USA,"Force AXS XPLR, (new e-drive US)",blu blk blk,54,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888195,Polen
+AMP_RM01_X_ONE_USA,30002768,AMP RM01 X ONE USA blu blk blk 56 MY23,Roadmachine 01 AMP X ONE USA,"Force AXS XPLR, (new e-drive US)",blu blk blk,56,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888188,Polen
+AMP_RM01_X_ONE_USA,30002769,AMP RM01 X ONE USA blu blk blk 58 MY23,Roadmachine 01 AMP X ONE USA,"Force AXS XPLR, (new e-drive US)",blu blk blk,58,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888171,Polen
+AMP_RM01_X_ONE_USA,30002770,AMP RM01 X ONE USA blu blk blk 61 MY23,Roadmachine 01 AMP X ONE USA,"Force AXS XPLR, (new e-drive US)",blu blk blk,61,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888164,Polen
+AMP_RM01_X_TWO,30002771,AMP RM01 X TWO yel blk blk 47 MY23,Roadmachine 01 AMP X TWO,"Rival AXS XPLR, (new e-drive)",yel blk blk,47,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888157,Polen
+AMP_RM01_X_TWO,30002772,AMP RM01 X TWO yel blk blk 51 MY23,Roadmachine 01 AMP X TWO,"Rival AXS XPLR, (new e-drive)",yel blk blk,51,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888140,Polen
+AMP_RM01_X_TWO,30002773,AMP RM01 X TWO yel blk blk 54 MY23,Roadmachine 01 AMP X TWO,"Rival AXS XPLR, (new e-drive)",yel blk blk,54,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888232,Polen
+AMP_RM01_X_TWO,30002774,AMP RM01 X TWO yel blk blk 56 MY23,Roadmachine 01 AMP X TWO,"Rival AXS XPLR, (new e-drive)",yel blk blk,56,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888324,Polen
+AMP_RM01_X_TWO,30002775,AMP RM01 X TWO yel blk blk 58 MY23,Roadmachine 01 AMP X TWO,"Rival AXS XPLR, (new e-drive)",yel blk blk,58,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888317,Polen
+AMP_RM01_X_TWO,30002776,AMP RM01 X TWO yel blk blk 61 MY23,Roadmachine 01 AMP X TWO,"Rival AXS XPLR, (new e-drive)",yel blk blk,61,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888300,Polen
+AMP_RM01_X_TWO_USA,30002777,AMP RM01 X TWO USA yel blk blk 47 MY23,Roadmachine 01 AMP X TWO USA,"Rival AXS XPLR, (new e-drive US)",yel blk blk,47,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888294,Polen
+AMP_RM01_X_TWO_USA,30002778,AMP RM01 X TWO USA yel blk blk 51 MY23,Roadmachine 01 AMP X TWO USA,"Rival AXS XPLR, (new e-drive US)",yel blk blk,51,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888287,Polen
+AMP_RM01_X_TWO_USA,30002779,AMP RM01 X TWO USA yel blk blk 54 MY23,Roadmachine 01 AMP X TWO USA,"Rival AXS XPLR, (new e-drive US)",yel blk blk,54,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888270,Polen
+AMP_RM01_X_TWO_USA,30002780,AMP RM01 X TWO USA yel blk blk 56 MY23,Roadmachine 01 AMP X TWO USA,"Rival AXS XPLR, (new e-drive US)",yel blk blk,56,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888263,Polen
+AMP_RM01_X_TWO_USA,30002781,AMP RM01 X TWO USA yel blk blk 58 MY23,Roadmachine 01 AMP X TWO USA,"Rival AXS XPLR, (new e-drive US)",yel blk blk,58,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888256,Polen
+AMP_RM01_X_TWO_USA,30002782,AMP RM01 X TWO USA yel blk blk 61 MY23,Roadmachine 01 AMP X TWO USA,"Rival AXS XPLR, (new e-drive US)",yel blk blk,61,2023,8711.609,BMC,Ja,AMP Endurance,17.5,13.5,7630027888249,Polen
+AMP_RM_TWO_USA,30002795,AMP RM TWO USA yel blu wht 47 MY23,Roadmachine AMP TWO USA,"Rival AXS HRD, X20",yel blu wht,47,2023,8711.609,BMC,Ja,AMP Endurance,18,14,7630027888416,Polen
+AMP_RM_TWO_USA,30002796,AMP RM TWO USA yel blu wht 51 MY23,Roadmachine AMP TWO USA,"Rival AXS HRD, X20",yel blu wht,51,2023,8711.609,BMC,Ja,AMP Endurance,18,14,7630027888409,Polen
+AMP_RM_TWO_USA,30002797,AMP RM TWO USA yel blu wht 54 MY23,Roadmachine AMP TWO USA,"Rival AXS HRD, X20",yel blu wht,54,2023,8711.609,BMC,Ja,AMP Endurance,18,14,7630027888393,Polen
+AMP_RM_TWO_USA,30002798,AMP RM TWO USA yel blu wht 56 MY23,Roadmachine AMP TWO USA,"Rival AXS HRD, X20",yel blu wht,56,2023,8711.609,BMC,Ja,AMP Endurance,18,14,7630027888386,Polen
+AMP_RM_TWO_USA,30002799,AMP RM TWO USA yel blu wht 58 MY23,Roadmachine AMP TWO USA,"Rival AXS HRD, X20",yel blu wht,58,2023,8711.609,BMC,Ja,AMP Endurance,18,14,7630027888379,Polen
+AMP_RM_TWO_USA,30002800,AMP RM TWO USA yel blu wht 61 MY23,Roadmachine AMP TWO USA,"Rival AXS HRD, X20",yel blu wht,61,2023,8711.609,BMC,Ja,AMP Endurance,18,14,7630027888362,Polen
+AMP_FS_LT_LTD,30002807,AMP FS LT LTD prp blk cbn S MY23,Fourstroke AMP LTD,"XX1 Eagle AXS, (new e-drive)",prp blk cbn,S,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888492,Polen
+AMP_FS_LT_LTD,30002808,AMP FS LT LTD prp blk cbn M MY23,Fourstroke AMP LTD,"XX1 Eagle AXS, (new e-drive)",prp blk cbn,M,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888485,Polen
+AMP_FS_LT_LTD,30002809,AMP FS LT LTD prp blk cbn L MY23,Fourstroke AMP LTD,"XX1 Eagle AXS, (new e-drive)",prp blk cbn,L,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888478,Polen
+AMP_FS_LT_LTD,30002810,AMP FS LT LTD prp blk cbn XL MY23,Fourstroke AMP LTD,"XX1 Eagle AXS, (new e-drive)",prp blk cbn,XL,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888461,Polen
+AMP_FS_LT_ONE,30002811,AMP FS LT ONE snd wht wht S MY23,Fourstroke AMP ONE,"GX Eagle AXS, (new e-drive)",snd wht wht,S,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888454,Polen
+AMP_FS_LT_ONE,30002812,AMP FS LT ONE snd wht wht M MY23,Fourstroke AMP ONE,"GX Eagle AXS, (new e-drive)",snd wht wht,M,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888447,Polen
+AMP_FS_LT_ONE,30002813,AMP FS LT ONE snd wht wht L MY23,Fourstroke AMP ONE,"GX Eagle AXS, (new e-drive)",snd wht wht,L,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888539,Polen
+AMP_FS_LT_ONE,30002814,AMP FS LT ONE snd wht wht XL MY23,Fourstroke AMP ONE,"GX Eagle AXS, (new e-drive)",snd wht wht,XL,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888621,Polen
+AMP_FS_LT_ONE_USA,30002815,AMP FS LT ONE USA snd wht wht S MY23,Fourstroke AMP LT ONE USA,"GX Eagle AXS, (new e-drive)",snd wht wht,S,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888614,Polen
+AMP_FS_LT_ONE_USA,30002816,AMP FS LT ONE USA snd wht wht M MY23,Fourstroke AMP LT ONE USA,"GX Eagle AXS, (new e-drive)",snd wht wht,M,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888607,Polen
+AMP_FS_LT_ONE_USA,30002817,AMP FS LT ONE USA snd wht wht L MY23,Fourstroke AMP LT ONE USA,"GX Eagle AXS, (new e-drive)",snd wht wht,L,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888591,Polen
+AMP_FS_LT_ONE_USA,30002818,AMP FS LT ONE USA snd wht wht XL MY23,Fourstroke AMP LT ONE USA,"GX Eagle AXS, (new e-drive)",snd wht wht,XL,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888584,Polen
+AMP_FS_LT_TWO,30002819,AMP FS LT TWO cbn red red S MY23,Fourstroke AMP TWO,"XT mix, (new e-drive)",cbn red red,S,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888577,Polen
+AMP_FS_LT_TWO,30002820,AMP FS LT TWO cbn red red M MY23,Fourstroke AMP TWO,"XT mix, (new e-drive)",cbn red red,M,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888560,Polen
+AMP_FS_LT_TWO,30002821,AMP FS LT TWO cbn red red L MY23,Fourstroke AMP TWO,"XT mix, (new e-drive)",cbn red red,L,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888553,Polen
+AMP_FS_LT_TWO,30002822,AMP FS LT TWO cbn red red XL MY23,Fourstroke AMP TWO,"XT mix, (new e-drive)",cbn red red,XL,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888546,Polen
+AMP_FS_LT_TWO_USA,30002823,AMP FS LT TWO USA cbn red red S MY23,Fourstroke AMP LT TWO USA,"XT mix, (new e-drive)",cbn red red,S,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888638,Polen
+AMP_FS_LT_TWO_USA,30002824,AMP FS LT TWO USA cbn red red M MY23,Fourstroke AMP LT TWO USA,"XT mix, (new e-drive)",cbn red red,M,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888720,Polen
+AMP_FS_LT_TWO_USA,30002825,AMP FS LT TWO USA cbn red red L MY23,Fourstroke AMP LT TWO USA,"XT mix, (new e-drive)",cbn red red,L,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888713,Polen
+AMP_FS_LT_TWO_USA,30002826,AMP FS LT TWO USA cbn red red XL MY23,Fourstroke AMP LT TWO USA,"XT mix, (new e-drive)",cbn red red,XL,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888706,Polen
+AMP_FS_LT_THREE,30002827,AMP FS LT THREE gry blk cbn S MY23,Fourstroke AMP THREE,"SLX mix, (new e-drive)",gry blk cbn,S,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888690,Polen
+AMP_FS_LT_THREE,30002828,AMP FS LT THREE gry blk cbn M MY23,Fourstroke AMP THREE,"SLX mix, (new e-drive)",gry blk cbn,M,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888683,Polen
+AMP_FS_LT_THREE,30002829,AMP FS LT THREE gry blk cbn L MY23,Fourstroke AMP THREE,"SLX mix, (new e-drive)",gry blk cbn,L,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888676,Polen
+AMP_FS_LT_THREE,30002830,AMP FS LT THREE gry blk cbn XL MY23,Fourstroke AMP THREE,"SLX mix, (new e-drive)",gry blk cbn,XL,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888669,Polen
+AMP_FS_LT_THREE_USA,30002831,AMP FS LT THREE USA gry blk cbn S MY23,Fourstroke AMP LT THREE USA,"SLX mix, (new e-drive)",gry blk cbn,S,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888652,Polen
+AMP_FS_LT_THREE_USA,30002832,AMP FS LT THREE USA gry blk cbn M MY23,Fourstroke AMP LT THREE USA,"SLX mix, (new e-drive)",gry blk cbn,M,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888645,Polen
+AMP_FS_LT_THREE_USA,30002833,AMP FS LT THREE USA gry blk cbn L MY23,Fourstroke AMP LT THREE USA,"SLX mix, (new e-drive)",gry blk cbn,L,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888737,Polen
+AMP_FS_LT_THREE_USA,30002834,AMP FS LT THREE USA gry blk cbn XL MY23,Fourstroke AMP LT THREE USA,"SLX mix, (new e-drive)",gry blk cbn,XL,2023,8711.609,BMC,Ja,AMP Cross-Country,22,18,7630027888829,Polen
+AMP_AC_AL_ONE,30002835,AMP AC AL ONE blu red red S MY23,Alpenchallenge AMP AL ONE,"Deore 1x11, Performance CX",blu red red,S,2023,8711.609,BMC,Ja,AMP Active,21,17,7630027888812,Polen
+AMP_AC_AL_ONE,30002836,AMP AC AL ONE blu red red M MY23,Alpenchallenge AMP AL ONE,"Deore 1x11, Performance CX",blu red red,M,2023,8711.609,BMC,Ja,AMP Active,21,17,7630027888805,Polen
+AMP_AC_AL_ONE,30002837,AMP AC AL ONE blu red red L MY23,Alpenchallenge AMP AL ONE,"Deore 1x11, Performance CX",blu red red,L,2023,8711.609,BMC,Ja,AMP Active,21,17,7630027888799,Polen
+AMP_AC_AL_ONE,30002838,AMP AC AL ONE blu red red XL MY23,Alpenchallenge AMP AL ONE,"Deore 1x11, Performance CX",blu red red,XL,2023,8711.609,BMC,Ja,AMP Active,21,17,7630027888782,Polen
+257_AL_ONE,30002839,257 AL ONE blu blu blu S MY23,257 AL ONE,Alfine 8,blu blu blu,S,2023,8712,BMC,Ja,Urban,17,13,7630027888775,Taiwan
+257_AL_ONE,30002840,257 AL ONE blu blu blu M MY23,257 AL ONE,Alfine 8,blu blu blu,M,2023,8712,BMC,Ja,Urban,17,13,7630027888768,Taiwan
+257_AL_ONE,30002841,257 AL ONE blu blu blu L MY23,257 AL ONE,Alfine 8,blu blu blu,L,2023,8712,BMC,Ja,Urban,17,13,7630027888751,Taiwan
+257_AL_ONE,30002842,257 AL ONE blu blu blu XL MY23,257 AL ONE,Alfine 8,blu blu blu,XL,2023,8712,BMC,Ja,Urban,17,13,7630027888744,Taiwan
+257_AL_ONE_ST,30002843,257 AL ONE ST blu blu blu S MY23,257 AL ONE ST,Alfine 8,blu blu blu,S,2023,8712,BMC,Ja,Urban,17,13,7630027888836,Taiwan
+257_AL_ONE_ST,30002844,257 AL ONE ST blu blu blu M MY23,257 AL ONE ST,Alfine 8,blu blu blu,M,2023,8712,BMC,Ja,Urban,17,13,7630027888928,Taiwan
+257_AL_TWO,30002845,257 AL TWO snd snd snd S MY23,257 AL TWO,Apex 1,snd snd snd,S,2023,8712,BMC,Ja,Urban,17,13,7630027888911,Taiwan
+257_AL_TWO,30002846,257 AL TWO snd snd snd M MY23,257 AL TWO,Apex 1,snd snd snd,M,2023,8712,BMC,Ja,Urban,17,13,7630027888904,Taiwan
+257_AL_TWO,30002847,257 AL TWO snd snd snd L MY23,257 AL TWO,Apex 1,snd snd snd,L,2023,8712,BMC,Ja,Urban,17,13,7630027888898,Taiwan
+257_AL_TWO,30002848,257 AL TWO snd snd snd XL MY23,257 AL TWO,Apex 1,snd snd snd,XL,2023,8712,BMC,Ja,Urban,17,13,7630027888881,Taiwan
+257_AL_TWO_ST,30002849,257 AL TWO ST snd snd snd S MY23,257 AL TWO ST,Apex 1,snd snd snd,S,2023,8712,BMC,Ja,Urban,17,13,7630027888874,Taiwan
+257_AL_TWO_ST,30002850,257 AL TWO ST snd snd snd M MY23,257 AL TWO ST,Apex 1,snd snd snd,M,2023,8712,BMC,Ja,Urban,17,13,7630027888867,Taiwan
+257_AL_THREE,30002851,257 AL THREE ant ant ant S MY23,257 AL THREE,Nexus 8,ant ant ant,S,2023,8712,BMC,Ja,Urban,17,13,7630027888850,Taiwan
+257_AL_THREE,30002852,257 AL THREE ant ant ant M MY23,257 AL THREE,Nexus 8,ant ant ant,M,2023,8712,BMC,Ja,Urban,17,13,7630027888843,Taiwan
+257_AL_THREE,30002853,257 AL THREE ant ant ant L MY23,257 AL THREE,Nexus 8,ant ant ant,L,2023,8712,BMC,Ja,Urban,17,13,7630027888935,Taiwan
+257_AL_THREE,30002854,257 AL THREE ant ant ant XL MY23,257 AL THREE,Nexus 8,ant ant ant,XL,2023,8712,BMC,Ja,Urban,17,13,7630027889024,Taiwan
+257_AL_THREE_ST,30002855,257 AL THREE ST ant ant ant S MY23,257 AL THREE ST,Nexus 8,ant ant ant,S,2023,8712,BMC,Ja,Urban,17,13,7630027889017,Taiwan
+257_AL_THREE_ST,30002856,257 AL THREE ST ant ant ant M MY23,257 AL THREE ST,Nexus 8,ant ant ant,M,2023,8712,BMC,Ja,Urban,17,13,7630027889000,Taiwan
+257_AL_FOUR,30002857,257 AL FOUR gry gry gry S MY23,257 AL FOUR,Deore 1x11,gry gry gry,S,2023,8712,BMC,Ja,Urban,17,13,7630027888997,Taiwan
+257_AL_FOUR,30002858,257 AL FOUR gry gry gry M MY23,257 AL FOUR,Deore 1x11,gry gry gry,M,2023,8712,BMC,Ja,Urban,17,13,7630027888980,Taiwan
+257_AL_FOUR,30002859,257 AL FOUR gry gry gry L MY23,257 AL FOUR,Deore 1x11,gry gry gry,L,2023,8712,BMC,Ja,Urban,17,13,7630027888973,Taiwan
+257_AL_FOUR,30002860,257 AL FOUR gry gry gry XL MY23,257 AL FOUR,Deore 1x11,gry gry gry,XL,2023,8712,BMC,Ja,Urban,17,13,7630027888966,Taiwan
+257_AL_FOUR_ST,30002861,257 AL FOUR ST gry gry gry S MY23,257 AL FOUR ST,Deore 1x11,gry gry gry,S,2023,8712,BMC,Ja,Urban,17,13,7630027888959,Taiwan
+257_AL_FOUR_ST,30002862,257 AL FOUR ST gry gry gry M MY23,257 AL FOUR ST,Deore 1x11,gry gry gry,M,2023,8712,BMC,Ja,Urban,17,13,7630027888942,Taiwan
+AMP_257_AL_SPEED_ONE,30002863,AMP 257 AL SPEED ONE ant S MY23,257 AMP AL SPEED ONE,Shimano 1x11 Performance 45,ant ant ant,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889031,Polen
+AMP_257_AL_SPEED_ONE,30002864,AMP 257 AL SPEED ONE ant M MY23,257 AMP AL SPEED ONE,Shimano 1x11 Performance 45,ant ant ant,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889123,Polen
+AMP_257_AL_SPEED_ONE,30002865,AMP 257 AL SPEED ONE ant L MY23,257 AMP AL SPEED ONE,Shimano 1x11 Performance 45,ant ant ant,L,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889116,Polen
+AMP_257_AL_SPEED_ONE,30002866,AMP 257 AL SPEED ONE ant XL MY23,257 AMP AL SPEED ONE,Shimano 1x11 Performance 45,ant ant ant,XL,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889109,Polen
+AMP_257_AL_SPEED_ONE_USA,30002867,AMP 257 AL SPEED ONE USA ant S MY23,257 AMP AL SPEED ONE USA,Shimano 1x11 Performance 45,ant ant ant,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889093,Polen
+AMP_257_AL_SPEED_ONE_USA,30002868,AMP 257 AL SPEED ONE USA ant M MY23,257 AMP AL SPEED ONE USA,Shimano 1x11 Performance 45,ant ant ant,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889086,Polen
+AMP_257_AL_SPEED_ONE_USA,30002869,AMP 257 AL SPEED ONE USA ant L MY23,257 AMP AL SPEED ONE USA,Shimano 1x11 Performance 45,ant ant ant,L,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889079,Polen
+AMP_257_AL_SPEED_ONE_USA,30002870,AMP 257 AL SPEED ONE USA ant XL MY23,257 AMP AL SPEED ONE USA,Shimano 1x11 Performance 45,ant ant ant,XL,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889062,Polen
+AMP_257_AL_SPEED_ONE_ST,30002871,AMP 257 AL SPEED ONE ST ant S MY23,257 AMP AL SPEED ONE ST,Shimano 1x11 Performance 45,ant ant ant,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889055,Polen
+AMP_257_AL_SPEED_ONE_ST,30002872,AMP 257 AL SPEED ONE ST ant M MY23,257 AMP AL SPEED ONE ST,Shimano 1x11 Performance 45,ant ant ant,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889048,Polen
+AMP_257_AL_SPEED_ONE_ST_USA,30002873,AMP 257 AL SPEED ONE ST USA ant S MY23,257 AMP AL SPEED ONE ST USA,Shimano 1x11 Performance 45,ant ant ant,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889130,Polen
+AMP_257_AL_SPEED_ONE_ST_USA,30002874,AMP 257 AL SPEED ONE ST USA ant M MY23,257 AMP AL SPEED ONE ST USA,Shimano 1x11 Performance 45,ant ant ant,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889222,Polen
+AMP_257_AL_ONE,30002875,AMP 257 AL ONE blu blu blu S MY23,257 AMP AL ONE,"Alfine 8, Performance CX",blu blu blu,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889215,Polen
+AMP_257_AL_ONE,30002876,AMP 257 AL ONE blu blu blu M MY23,257 AMP AL ONE,"Alfine 8, Performance CX",blu blu blu,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889208,Polen
+AMP_257_AL_ONE,30002877,AMP 257 AL ONE blu blu blu L MY23,257 AMP AL ONE,"Alfine 8, Performance CX",blu blu blu,L,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889192,Polen
+AMP_257_AL_ONE,30002878,AMP 257 AL ONE blu blu blu XL MY23,257 AMP AL ONE,"Alfine 8, Performance CX",blu blu blu,XL,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889185,Polen
+AMP_257_AL_ONE_USA,30002879,AMP 257 AL ONE USA blu blu blu S MY23,257 AMP AL ONE USA,"Alfine 8, Performance CX",blu blu blu,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889178,Polen
+AMP_257_AL_ONE_USA,30002880,AMP 257 AL ONE USA blu blu blu M MY23,257 AMP AL ONE USA,"Alfine 8, Performance CX",blu blu blu,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889161,Polen
+AMP_257_AL_ONE_USA,30002881,AMP 257 AL ONE USA blu blu blu L MY23,257 AMP AL ONE USA,"Alfine 8, Performance CX",blu blu blu,L,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889154,Polen
+AMP_257_AL_ONE_USA,30002882,AMP 257 AL ONE USA blu blu blu XL MY23,257 AMP AL ONE USA,"Alfine 8, Performance CX",blu blu blu,XL,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889147,Polen
+AMP_257_AL_ONE_ST,30002883,AMP 257 AL ONE ST blu blu blu S MY23,257 AMP AL ONE ST,"Alfine 8, Performance CX",blu blu blu,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889239,Polen
+AMP_257_AL_ONE_ST,30002884,AMP 257 AL ONE ST blu blu blu M MY23,257 AMP AL ONE ST,"Alfine 8, Performance CX",blu blu blu,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889321,Polen
+AMP_257_AL_ONE_ST_USA,30002885,AMP 257 AL ONE ST USA blu blu blu S MY23,257 AMP AL ONE ST USA,"Alfine 8, Performance CX",blu blu blu,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889314,Polen
+AMP_257_AL_ONE_ST_USA,30002886,AMP 257 AL ONE ST USA blu blu blu M MY23,257 AMP AL ONE ST USA,"Alfine 8, Performance CX",blu blu blu,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889307,Polen
+AMP_257_AL_TWO,30002887,AMP 257 AL TWO snd snd snd S MY23,257 AMP AL TWO,"Deore 1x12, Performance CX",snd snd snd,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889291,Polen
+AMP_257_AL_TWO,30002888,AMP 257 AL TWO snd snd snd M MY23,257 AMP AL TWO,"Deore 1x12, Performance CX",snd snd snd,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889284,Polen
+AMP_257_AL_TWO,30002889,AMP 257 AL TWO snd snd snd L MY23,257 AMP AL TWO,"Deore 1x12, Performance CX",snd snd snd,L,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889277,Polen
+AMP_257_AL_TWO,30002890,AMP 257 AL TWO snd snd snd XL MY23,257 AMP AL TWO,"Deore 1x12, Performance CX",snd snd snd,XL,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889260,Polen
+AMP_257_AL_TWO_ST,30002891,AMP 257 AL TWO ST snd snd snd S MY23,257 AMP AL TWO ST,"Deore 1x12, Performance CX",snd snd snd,S,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889253,Polen
+AMP_257_AL_TWO_ST,30002892,AMP 257 AL TWO ST snd snd snd M MY23,257 AMP AL TWO ST,"Deore 1x12, Performance CX",snd snd snd,M,2023,8711.609,BMC,Ja,AMP Urban,22,18,7630027889246,Polen
+RM_TWO,30003515,RM TWO cbn gry gry 58 MY23,Roadmachine TWO,Force AXS HRD,cbn gry gry,58,2023,8712,BMC,Ja,Endurance,12,8,7630027890204,Taiwan
+TM01_ROAD_MOD_VAR1,30004314,TM01 ROAD MOD V1 cbn blk blk 47 MY23 CPB,Timemachine 01 ROAD MOD V1 CPB,Module,cbn blk blk,47,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027897562,Taiwan
+TM01_ROAD_MOD_VAR1,30004315,TM01 ROAD MOD V1 cbn blk blk 51 MY23 CPB,Timemachine 01 ROAD MOD V1 CPB,Module,cbn blk blk,51,2023,8714.919,BMC,Ja,Aero / Triathlon,8,4,7630027897579,Taiwan

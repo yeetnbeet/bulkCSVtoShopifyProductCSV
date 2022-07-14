@@ -1,3 +1,6 @@
+from logging import PlaceHolder
+from typing import Counter
+from numpy import product
 import pandas as pd
 
 # get only the columns you want from the csv file
@@ -7,43 +10,24 @@ result = df.to_dict(orient='records')
 dictByBike ={}
 
 def cleanDic(dict):
-    dictByBike ={}
-    variant = {}
-    aggregator = {}
-    counterV = 0
-    counterT = 0
-    counterD = 0
-    currentProduct = dict[0]["ProductText"]
-    lastProduct = ""
-    lenOfdict = len(dict)
-    for object in dict :
-        print(lastProduct)
-        if object ["ProductText"] == currentProduct and counterT <= lenOfdict-2 :
-            aggregator[counterV] = {"SKU":object['MaterialNumber'],
-            'SPEC':object['Spec'],
-            'Color':object['Color'],
-            'Size':object['Size']
-            }
-            variant[currentProduct] = aggregator[counterV]
-            counterT = counterT+1
-            counterV = counterV+1
-            lastProduct = currentProduct
-            currentProduct = dict[counterT]["ProductText"]
-        else :
-            counterD = counterD + 1
-            dictByBike = variant
-            counterT = counterT+1
-            counterV = 0
-            lastProduct = currentProduct
-            if counterT <= lenOfdict -2 : 
-                currentProduct = dict[counterT]["ProductText"]
-                variant = {}
+    dictByBike ={} 
+    a = []   
+    for item in dict :
+        a.append(item["ProductText"])
+    res = []
+    for i in a:
+        if i not in res:
+            res.append(i)
+    for i in res :
+        l = []
+        for obj in dict:
+            if i == obj['ProductText']:
+                l.append(obj)
+        dictByBike[i]=l
 
 
-
-
-
-    print(dictByBike) 
+    print("\n\n")    
+    print(dictByBike)
 
 if __name__ == "__main__":
     cleanDic(result)

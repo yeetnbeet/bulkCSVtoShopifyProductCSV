@@ -8,7 +8,7 @@ df = pd.read_csv('DATA.CSV', usecols=['ProductText', 'MaterialNumber','Spec','Co
 result = df.to_dict(orient='records')
 
 dictByBike ={}
-
+#Finds Variants From Duplicate Text and Parses them into an easy to read object (lists of variants)
 def cleanDic(dict):
     dictByBike ={} 
     a = []   
@@ -28,6 +28,7 @@ def cleanDic(dict):
 
     print("\n\n")    
     print(dictByBike)
+    return dictByBike
 
 if __name__ == "__main__":
     cleanDic(result)

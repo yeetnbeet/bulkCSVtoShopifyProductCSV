@@ -9,7 +9,7 @@ def bikeDataToList(bikedata,vendor='BMC'):
     'Custom Product Type','Tags','Published','Option1 Name','Option1 Value','Option2 Name',
     'Option2 Value','Option3 Name','Option3 Value','Variant SKU','Variant Grams',
     'Variant Inventory Tracker','Variant Inventory Policy','Variant Fulfillment Service','Variant Price','Variant Compare At Price',
-    'Variant Requires Shipping','Variant Taxable','Variant Barcode','Image Src','Image Position','Image Position',
+    'Variant Requires Shipping','Variant Taxable','Variant Barcode','Image Position','Image Position',
     'Gift Card','SEO Title','SEO Description','Google Shopping / Google Product Category','Google Shopping / Gender',
     'Google Shopping / Age Group','Google Shopping / MPN','Google Shopping / AdWords Grouping','Google Shopping / AdWords Labels','Google Shopping / Condition',
     'Google Shopping / Custom Product','Google Shopping / Custom Label 0','Google Shopping / Custom Label 1','Google Shopping / Custom Label 2','Google Shopping / Custom Label 3'
@@ -22,9 +22,9 @@ def bikeDataToList(bikedata,vendor='BMC'):
     'shopify','deny','manual','','',
     'TRUE','TRUE','','','',
     'FALSE','','','','',
-    '','','','','',
+    '','','','',
     '','','','',''
-    ,'','','lb',
+    ,'','','','lb',
     '','',''
     ]
     shopifyReadylist = []
@@ -48,7 +48,7 @@ def bikeDataToList(bikedata,vendor='BMC'):
                     printablecopy[8] = "Size"
                     printablecopy[9] = i["Size"]
                     printablecopy[14] = i['MaterialNumber']
-                    printablecopy[46] = "Draft"
+                    printablecopy[46] = "draft"
                     shopifyReadylist.append(printablecopy)
                     print("HEAD",",",bikename,Counter)
                     print(printablecopy)
@@ -88,8 +88,7 @@ if __name__ == "__main__":
     bikeData = cleanDic(csvToDict(identifiers),identifiers.title)    
     ttt = bikeDataToList(bikeData,'bmc')
    
-    for line in ttt:
-        print(line)
+    
     
     
     

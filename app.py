@@ -34,7 +34,7 @@ def bikeDataToList(bikedata,vendor='BMC'):
     with open('OUTPUT.CSV', 'w') as f:
     # create the csv writer
         writer = csv.writer(f)
-
+        writer.writerow(bikedatalist)
         for key in bikedata:
             for i in bikedata[key]:
                 Counter = Counter + 1

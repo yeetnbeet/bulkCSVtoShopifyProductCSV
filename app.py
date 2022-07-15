@@ -1,4 +1,5 @@
 import json
+from typing import Counter
 from bulkbikedata import columID, csvToDict, cleanDic ;
 import csv ;
 import json ;
@@ -29,24 +30,50 @@ def bikeDataToList(bikedata,vendor='BMC'):
     shopifyReadylist = []
     shopifyReadylist.append(bikedatalist)
     bikename = ''
-    for key in bikedata:
-        for i in bikedata[key]:
-            printablecopy = bikedatalistPrintable
-            if i["ProductText"] != bikename:
-                printablecopy[1] = i["ProductText"]
-                printablecopy[3] = vendor
-                printablecopy[5] = "Bikes"
-                printablecopy[7] = "TRUE"
-                printablecopy[8] = "Size"
-                printablecopy[9] = i["Size"]
-                printablecopy[14] = i['MaterialNumber']
-                printablecopy[46] = "Draft"
-                shopifyReadylist.append(printablecopy)
-                
-                bikename = i["ProductText"]
-            else:
-                printablecopy[9] = i["Size"]
-                printablecopy[14] = i['MaterialNumber']
+    Counter = 0
+    with open('OUTPUT.CSV', 'w') as f:
+    # create the csv writer
+        writer = csv.writer(f)
+
+        for key in bikedata:
+            for i in bikedata[key]:
+                Counter = Counter + 1
+            
+                if i["ProductText"] != bikename:
+                    printablecopy = bikedatalistPrintable
+                    printablecopy[1] = i["ProductText"]
+                    printablecopy[3] = vendor
+                    printablecopy[5] = "Bikes"
+                    printablecopy[7] = "TRUE"
+                    printablecopy[8] = "Size"
+                    printablecopy[9] = i["Size"]
+                    printablecopy[14] = i['MaterialNumber']
+                    printablecopy[46] = "Draft"
+                    shopifyReadylist.append(printablecopy)
+                    print("HEAD",",",bikename,Counter)
+                    print(printablecopy)
+                    writer.writerow(printablecopy)
+                    printablecopy = []
+                    bikename = i["ProductText"]
+                elif i["ProductText"] == bikename:
+                    printablecopy = bikedatalistPrintable
+                    printablecopy[1] = ""
+                    printablecopy[3] = ""
+                    printablecopy[5] = ""
+                    printablecopy[7] = ""
+                    printablecopy[8] = ""
+                    printablecopy[9] = i["Size"]
+                    printablecopy[14] = i['MaterialNumber']
+                    printablecopy[46] = ""
+                    printablecopy[9] = i["Size"]
+                    printablecopy[14] = i['MaterialNumber']
+                    shopifyReadylist.append(printablecopy)
+                    print("SUB",",",bikename,Counter)
+                    print(printablecopy)
+                    writer.writerow(printablecopy)
+                    printablecopy = []
+
+    
 
                     
         
@@ -60,6 +87,9 @@ if __name__ == "__main__":
     identifiers = columID()
     bikeData = cleanDic(csvToDict(identifiers),identifiers.title)    
     ttt = bikeDataToList(bikeData,'bmc')
-    print("\n\n\n\n\n\n",ttt)
+   
+    for line in ttt:
+        print(line)
+    
     
     

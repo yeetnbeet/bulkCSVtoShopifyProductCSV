@@ -15,7 +15,7 @@ def bikeDataToList(bikedata,vendor='BMC'):
     ,'Google Shopping / Custom Label 4','Variant Image','Variant Weight Unit',
     'Variant Tax Code','cost','Status'
     ]
-    bikedatalistPrintable = ['','Title','',vendor,'',
+    bikedatalistPrintable = ['','','','','',
     '','testing:sammachine','','','Option1 Value','',
     '','','','Variant SKU',0,
     'shopify','deny','manual','','',
@@ -31,33 +31,35 @@ def bikeDataToList(bikedata,vendor='BMC'):
     bikename = ''
     for key in bikedata:
         for i in bikedata[key]:
+            printablecopy = bikedatalistPrintable
             if i["ProductText"] != bikename:
-                print("First _______",bikename)
+                printablecopy[1] = i["ProductText"]
+                printablecopy[3] = vendor
+                printablecopy[5] = "Bikes"
+                printablecopy[7] = "TRUE"
+                printablecopy[8] = "Size"
+                printablecopy[9] = i["Size"]
+                printablecopy[14] = i['MaterialNumber']
+                printablecopy[46] = "Draft"
+                shopifyReadylist.append(printablecopy)
+                
                 bikename = i["ProductText"]
             else:
-                print('SECONDARY______',bikename)
+                printablecopy[9] = i["Size"]
+                printablecopy[14] = i['MaterialNumber']
 
-    
+                    
         
-
-        
-
-
     return shopifyReadylist
 
-def writeShopifyCSV (bikedata,path) :
-    with open(path, 'w') as f:
-        # create the csv writer
-        writer = csv.writer(f)
-        
-        # write a row to the csv file
-        writer.writerow(bikedata)
+
+
 
 
 if __name__ == "__main__":
     identifiers = columID()
-    bikeData = cleanDic(csvToDict(identifiers),identifiers.title)
-    print("\n\n\n\n\n",bikeData,"\n\n\n\n\n\n")
-    bikeDataToList(bikeData,'bmc')
-    writeShopifyCSV(bikeDataToList(bikeData),'OUTPUT.CSV')
+    bikeData = cleanDic(csvToDict(identifiers),identifiers.title)    
+    ttt = bikeDataToList(bikeData,'bmc')
+    print("\n\n\n\n\n\n",ttt)
+    
     

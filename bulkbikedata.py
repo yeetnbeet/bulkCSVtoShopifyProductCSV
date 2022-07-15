@@ -36,7 +36,4 @@ def cleanDic(dict,identifier=string):
                 l.append(obj)
         dictByBike[i]=l
 
-
-    print("\n------------------------------\n")    
-    print(dictByBike)
     return dictByBike

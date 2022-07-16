@@ -1,544 +1,544 @@
-Handle,Title,Body(HTML),Vendor,Standardized Product Type,Custom Product Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Position,Image Position,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,cost,Status
-,Teammachine SLR01 LTD,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002241,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002242,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002243,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002244,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002245,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002246,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002247,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002248,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002249,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002250,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002251,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002252,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002253,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002254,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002255,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002256,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002257,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002258,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002259,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002260,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002261,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002262,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002263,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002264,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR01 FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002265,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002266,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002267,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002268,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002269,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002270,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR01 FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002271,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002272,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002273,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002274,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002275,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002276,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002319,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002320,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002321,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002322,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002323,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002324,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002325,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002326,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002327,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002328,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002329,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002330,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002331,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002332,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002333,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002334,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002335,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002336,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002337,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002338,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002339,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002340,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002341,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002342,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002343,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002344,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002345,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002346,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002347,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002348,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR SIX,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002349,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002350,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002351,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002352,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002353,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002354,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR SEVEN,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002355,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002356,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002357,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002358,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002359,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002360,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002361,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002362,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002363,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002364,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002365,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002366,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine SLR FRS V2,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002367,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002368,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002369,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002370,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002371,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002372,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine ALR ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002373,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002374,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002375,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,57,,,,,30002376,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,60,,,,,30002377,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Teammachine ALR TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002378,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002379,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002380,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,57,,,,,30002381,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,60,,,,,30002382,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002383,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002384,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002385,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002386,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002387,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002388,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002389,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002390,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002391,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002392,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002393,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002394,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002395,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002396,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002397,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002398,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002399,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002400,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002401,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002402,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002403,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002404,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002405,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002406,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002407,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002408,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002409,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002410,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002411,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002412,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002419,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002420,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002421,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002422,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002423,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002424,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002425,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002426,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002427,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002428,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002430,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30003515,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002431,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002432,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002433,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002434,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002435,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002436,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002437,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002438,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002439,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002440,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002441,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002442,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002443,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002444,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002445,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002446,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002447,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002448,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine SIX,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002449,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002450,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002451,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002452,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002453,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002454,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine SEVEN,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002455,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002456,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002457,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002458,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002459,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002460,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine X ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002461,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002462,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002463,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002464,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002465,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002466,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine X TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002467,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002468,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002469,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002470,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002471,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002472,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine X AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,XS,,,,,30002473,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,S,,,,,30002474,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,M,,,,,30002475,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002476,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002477,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Kaius 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002478,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002479,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002480,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002481,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002482,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002483,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Kaius 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002484,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002485,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002486,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002487,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002488,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002489,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Kaius 01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002490,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002491,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002492,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002493,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002494,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002495,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002496,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002497,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002498,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002499,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002500,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002501,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002502,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002503,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted 01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002504,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002505,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002506,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002507,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted 01 FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002508,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002509,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002510,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002511,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002512,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002513,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002514,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002515,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002516,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002517,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002518,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002519,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted LT ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002520,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002521,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002522,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002523,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted LT TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002524,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002525,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002526,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002527,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,XS,,,,,30002528,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,S,,,,,30002529,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,M,,,,,30002530,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002531,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002532,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,XS,,,,,30002533,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,S,,,,,30002534,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,M,,,,,30002535,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002536,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002537,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,UnReStricted AL THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,XS,,,,,30002538,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,S,,,,,30002539,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,M,,,,,30002540,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002541,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002542,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine 01 DISC ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002545,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M-S,,,,,30002546,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,M-L,,,,,30002547,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002548,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine 01 DISC TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002549,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M-S,,,,,30002550,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,M-L,,,,,30002551,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002552,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine 01 DISC FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002553,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M-S,,,,,30002554,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,M-L,,,,,30002555,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002556,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002557,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M-S,,,,,30002558,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,M-L,,,,,30002559,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002560,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine 01 ROAD ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002562,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002563,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002564,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002565,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002566,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002567,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine 01 ROAD TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002568,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002569,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002570,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002571,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002572,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002573,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine 01 ROAD THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002574,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002575,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002576,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002577,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002578,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002579,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine 01 ROAD MOD V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002580,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002581,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002582,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002583,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002584,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002585,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Trackmachine 01 FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002586,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002587,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002588,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Trackmachine AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002589,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002590,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002591,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002592,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002593,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002594,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002595,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002596,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002597,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002598,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002599,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke 01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002600,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002601,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002602,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002603,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke 01 FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002604,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002605,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002606,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002607,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke 01 FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002608,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002609,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002610,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002611,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke 01 FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002612,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002613,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002614,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002615,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002616,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002617,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002618,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002619,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002620,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002621,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002622,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002623,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke AL THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002624,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002625,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002626,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002627,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke AL FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002628,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002629,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002630,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002631,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke AL FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002632,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002633,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002634,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002635,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke AL SIX,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002636,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002637,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002638,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002639,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke 01 LTD,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002640,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002641,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002642,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002643,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002644,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002645,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002646,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002647,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002648,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002649,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002650,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002651,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke01 FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002652,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002653,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002654,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002655,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002656,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002657,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002658,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002659,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002660,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002661,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002662,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002663,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002664,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002665,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002666,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002667,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002668,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002669,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002670,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002671,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke LTD LT,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002672,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002673,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002674,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002675,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke ONE LT,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002676,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002677,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002678,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002679,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke TWO LT,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002680,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002681,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002682,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002683,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Twostroke AL 27,,bmc,,Bikes,testing:sammachine,TRUE,Size,27,,,,,30002684,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,Twostroke AL 24 V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,24,,,,,30002685,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,Twostroke AL 24 V2,,bmc,,Bikes,testing:sammachine,TRUE,Size,24,,,,,30002686,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,Twostroke AL 20 V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,20,,,,,30002687,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,Twostroke AL 20 V2,,bmc,,Bikes,testing:sammachine,TRUE,Size,20,,,,,30002688,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,Alpenchallenge AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002689,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002690,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002691,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002692,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Alpenchallenge AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002693,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002694,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002695,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002696,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Alpenchallenge AL THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002697,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002698,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002699,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002700,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Alpenchallenge AL FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002701,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002702,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002703,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002704,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 AMP TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002735,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002736,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002737,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002738,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002739,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002740,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 AMP TWO USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002741,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002742,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002743,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002744,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002745,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002746,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 AMP X ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002759,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002760,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002761,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002762,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002763,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002764,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 AMP X ONE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002765,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002766,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002767,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002768,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002769,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002770,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 AMP X TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002771,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002772,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002773,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002774,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002775,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002776,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine 01 AMP X TWO USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002777,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002778,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002779,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002780,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002781,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002782,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Roadmachine AMP TWO USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002795,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30002796,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,54,,,,,30002797,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,56,,,,,30002798,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,58,,,,,30002799,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,61,,,,,30002800,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke AMP LTD,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002807,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002808,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002809,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002810,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke AMP ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002811,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002812,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002813,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002814,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke AMP LT ONE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002815,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002816,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002817,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002818,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke AMP TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002819,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002820,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002821,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002822,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke AMP LT TWO USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002823,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002824,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002825,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002826,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke AMP THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002827,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002828,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002829,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002830,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Fourstroke AMP LT THREE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002831,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002832,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002833,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002834,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Alpenchallenge AMP AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002835,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002836,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002837,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002838,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002839,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002840,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002841,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002842,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AL ONE ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002843,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002844,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002845,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002846,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002847,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002848,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AL TWO ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002849,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002850,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AL THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002851,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002852,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002853,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002854,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AL THREE ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002855,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002856,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AL FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002857,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002858,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002859,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002860,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AL FOUR ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002861,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002862,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL SPEED ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002863,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002864,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002865,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002866,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL SPEED ONE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002867,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002868,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002869,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002870,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL SPEED ONE ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002871,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002872,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL SPEED ONE ST USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002873,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002874,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002875,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002876,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002877,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002878,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL ONE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002879,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002880,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002881,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002882,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL ONE ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002883,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002884,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL ONE ST USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002885,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002886,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002887,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002888,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,L,,,,,30002889,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,,,,,,testing:sammachine,,,XL,,,,,30002890,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,257 AMP AL TWO ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002891,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,M,,,,,30002892,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
-,Timemachine 01 ROAD MOD V1 CPB,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30004314,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
-,,,,,,testing:sammachine,,,51,,,,,30004315,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Title,Body(HTML),Vendor,Standardized Product Type,Custom Product Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Position,Image Position,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,cost,Status
+Teammachine SLR01 LTD,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002241,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR01 LTD,,,,,testing:sammachine,,,51,,,,,30002242,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 LTD,,,,,testing:sammachine,,,54,,,,,30002243,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 LTD,,,,,testing:sammachine,,,56,,,,,30002244,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 LTD,,,,,testing:sammachine,,,58,,,,,30002245,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 LTD,,,,,testing:sammachine,,,61,,,,,30002246,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002247,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR01 ONE,,,,,testing:sammachine,,,51,,,,,30002248,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 ONE,,,,,testing:sammachine,,,54,,,,,30002249,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 ONE,,,,,testing:sammachine,,,56,,,,,30002250,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 ONE,,,,,testing:sammachine,,,58,,,,,30002251,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 ONE,,,,,testing:sammachine,,,61,,,,,30002252,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002253,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR01 TWO,,,,,testing:sammachine,,,51,,,,,30002254,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 TWO,,,,,testing:sammachine,,,54,,,,,30002255,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 TWO,,,,,testing:sammachine,,,56,,,,,30002256,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 TWO,,,,,testing:sammachine,,,58,,,,,30002257,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 TWO,,,,,testing:sammachine,,,61,,,,,30002258,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002259,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR01 THREE,,,,,testing:sammachine,,,51,,,,,30002260,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 THREE,,,,,testing:sammachine,,,54,,,,,30002261,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 THREE,,,,,testing:sammachine,,,56,,,,,30002262,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 THREE,,,,,testing:sammachine,,,58,,,,,30002263,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 THREE,,,,,testing:sammachine,,,61,,,,,30002264,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002265,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR01 FOUR,,,,,testing:sammachine,,,51,,,,,30002266,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FOUR,,,,,testing:sammachine,,,54,,,,,30002267,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FOUR,,,,,testing:sammachine,,,56,,,,,30002268,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FOUR,,,,,testing:sammachine,,,58,,,,,30002269,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FOUR,,,,,testing:sammachine,,,61,,,,,30002270,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002271,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR01 FIVE,,,,,testing:sammachine,,,51,,,,,30002272,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FIVE,,,,,testing:sammachine,,,54,,,,,30002273,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FIVE,,,,,testing:sammachine,,,56,,,,,30002274,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FIVE,,,,,testing:sammachine,,,58,,,,,30002275,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR01 FIVE,,,,,testing:sammachine,,,61,,,,,30002276,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002319,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR ONE,,,,,testing:sammachine,,,51,,,,,30002320,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR ONE,,,,,testing:sammachine,,,54,,,,,30002321,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR ONE,,,,,testing:sammachine,,,56,,,,,30002322,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR ONE,,,,,testing:sammachine,,,58,,,,,30002323,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR ONE,,,,,testing:sammachine,,,61,,,,,30002324,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002325,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR TWO,,,,,testing:sammachine,,,51,,,,,30002326,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR TWO,,,,,testing:sammachine,,,54,,,,,30002327,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR TWO,,,,,testing:sammachine,,,56,,,,,30002328,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR TWO,,,,,testing:sammachine,,,58,,,,,30002329,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR TWO,,,,,testing:sammachine,,,61,,,,,30002330,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002331,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR THREE,,,,,testing:sammachine,,,51,,,,,30002332,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR THREE,,,,,testing:sammachine,,,54,,,,,30002333,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR THREE,,,,,testing:sammachine,,,56,,,,,30002334,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR THREE,,,,,testing:sammachine,,,58,,,,,30002335,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR THREE,,,,,testing:sammachine,,,61,,,,,30002336,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002337,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR FOUR,,,,,testing:sammachine,,,51,,,,,30002338,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FOUR,,,,,testing:sammachine,,,54,,,,,30002339,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FOUR,,,,,testing:sammachine,,,56,,,,,30002340,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FOUR,,,,,testing:sammachine,,,58,,,,,30002341,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FOUR,,,,,testing:sammachine,,,61,,,,,30002342,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002343,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR FIVE,,,,,testing:sammachine,,,51,,,,,30002344,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FIVE,,,,,testing:sammachine,,,54,,,,,30002345,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FIVE,,,,,testing:sammachine,,,56,,,,,30002346,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FIVE,,,,,testing:sammachine,,,58,,,,,30002347,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FIVE,,,,,testing:sammachine,,,61,,,,,30002348,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SIX,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002349,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR SIX,,,,,testing:sammachine,,,51,,,,,30002350,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SIX,,,,,testing:sammachine,,,54,,,,,30002351,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SIX,,,,,testing:sammachine,,,56,,,,,30002352,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SIX,,,,,testing:sammachine,,,58,,,,,30002353,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SIX,,,,,testing:sammachine,,,61,,,,,30002354,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SEVEN,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002355,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR SEVEN,,,,,testing:sammachine,,,51,,,,,30002356,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SEVEN,,,,,testing:sammachine,,,54,,,,,30002357,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SEVEN,,,,,testing:sammachine,,,56,,,,,30002358,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SEVEN,,,,,testing:sammachine,,,58,,,,,30002359,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR SEVEN,,,,,testing:sammachine,,,61,,,,,30002360,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002361,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR FRS V1,,,,,testing:sammachine,,,51,,,,,30002362,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V1,,,,,testing:sammachine,,,54,,,,,30002363,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V1,,,,,testing:sammachine,,,56,,,,,30002364,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V1,,,,,testing:sammachine,,,58,,,,,30002365,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V1,,,,,testing:sammachine,,,61,,,,,30002366,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V2,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002367,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine SLR FRS V2,,,,,testing:sammachine,,,51,,,,,30002368,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V2,,,,,testing:sammachine,,,54,,,,,30002369,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V2,,,,,testing:sammachine,,,56,,,,,30002370,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V2,,,,,testing:sammachine,,,58,,,,,30002371,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine SLR FRS V2,,,,,testing:sammachine,,,61,,,,,30002372,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine ALR ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002373,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine ALR ONE,,,,,testing:sammachine,,,51,,,,,30002374,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine ALR ONE,,,,,testing:sammachine,,,54,,,,,30002375,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine ALR ONE,,,,,testing:sammachine,,,57,,,,,30002376,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine ALR ONE,,,,,testing:sammachine,,,60,,,,,30002377,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine ALR TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002378,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Teammachine ALR TWO,,,,,testing:sammachine,,,51,,,,,30002379,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine ALR TWO,,,,,testing:sammachine,,,54,,,,,30002380,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine ALR TWO,,,,,testing:sammachine,,,57,,,,,30002381,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Teammachine ALR TWO,,,,,testing:sammachine,,,60,,,,,30002382,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002383,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 ONE,,,,,testing:sammachine,,,51,,,,,30002384,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 ONE,,,,,testing:sammachine,,,54,,,,,30002385,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 ONE,,,,,testing:sammachine,,,56,,,,,30002386,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 ONE,,,,,testing:sammachine,,,58,,,,,30002387,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 ONE,,,,,testing:sammachine,,,61,,,,,30002388,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002389,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 TWO,,,,,testing:sammachine,,,51,,,,,30002390,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 TWO,,,,,testing:sammachine,,,54,,,,,30002391,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 TWO,,,,,testing:sammachine,,,56,,,,,30002392,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 TWO,,,,,testing:sammachine,,,58,,,,,30002393,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 TWO,,,,,testing:sammachine,,,61,,,,,30002394,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002395,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 THREE,,,,,testing:sammachine,,,51,,,,,30002396,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 THREE,,,,,testing:sammachine,,,54,,,,,30002397,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 THREE,,,,,testing:sammachine,,,56,,,,,30002398,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 THREE,,,,,testing:sammachine,,,58,,,,,30002399,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 THREE,,,,,testing:sammachine,,,61,,,,,30002400,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002401,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 FOUR,,,,,testing:sammachine,,,51,,,,,30002402,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FOUR,,,,,testing:sammachine,,,54,,,,,30002403,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FOUR,,,,,testing:sammachine,,,56,,,,,30002404,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FOUR,,,,,testing:sammachine,,,58,,,,,30002405,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FOUR,,,,,testing:sammachine,,,61,,,,,30002406,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002407,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 FIVE,,,,,testing:sammachine,,,51,,,,,30002408,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FIVE,,,,,testing:sammachine,,,54,,,,,30002409,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FIVE,,,,,testing:sammachine,,,56,,,,,30002410,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FIVE,,,,,testing:sammachine,,,58,,,,,30002411,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 FIVE,,,,,testing:sammachine,,,61,,,,,30002412,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002419,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine ONE,,,,,testing:sammachine,,,51,,,,,30002420,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine ONE,,,,,testing:sammachine,,,54,,,,,30002421,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine ONE,,,,,testing:sammachine,,,56,,,,,30002422,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine ONE,,,,,testing:sammachine,,,58,,,,,30002423,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine ONE,,,,,testing:sammachine,,,61,,,,,30002424,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002425,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine TWO,,,,,testing:sammachine,,,51,,,,,30002426,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine TWO,,,,,testing:sammachine,,,54,,,,,30002427,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine TWO,,,,,testing:sammachine,,,56,,,,,30002428,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine TWO,,,,,testing:sammachine,,,61,,,,,30002430,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine TWO,,,,,testing:sammachine,,,58,,,,,30003515,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002431,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine THREE,,,,,testing:sammachine,,,51,,,,,30002432,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine THREE,,,,,testing:sammachine,,,54,,,,,30002433,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine THREE,,,,,testing:sammachine,,,56,,,,,30002434,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine THREE,,,,,testing:sammachine,,,58,,,,,30002435,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine THREE,,,,,testing:sammachine,,,61,,,,,30002436,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002437,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine FOUR,,,,,testing:sammachine,,,51,,,,,30002438,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FOUR,,,,,testing:sammachine,,,54,,,,,30002439,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FOUR,,,,,testing:sammachine,,,56,,,,,30002440,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FOUR,,,,,testing:sammachine,,,58,,,,,30002441,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FOUR,,,,,testing:sammachine,,,61,,,,,30002442,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002443,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine FIVE,,,,,testing:sammachine,,,51,,,,,30002444,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FIVE,,,,,testing:sammachine,,,54,,,,,30002445,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FIVE,,,,,testing:sammachine,,,56,,,,,30002446,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FIVE,,,,,testing:sammachine,,,58,,,,,30002447,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine FIVE,,,,,testing:sammachine,,,61,,,,,30002448,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SIX,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002449,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine SIX,,,,,testing:sammachine,,,51,,,,,30002450,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SIX,,,,,testing:sammachine,,,54,,,,,30002451,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SIX,,,,,testing:sammachine,,,56,,,,,30002452,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SIX,,,,,testing:sammachine,,,58,,,,,30002453,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SIX,,,,,testing:sammachine,,,61,,,,,30002454,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SEVEN,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002455,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine SEVEN,,,,,testing:sammachine,,,51,,,,,30002456,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SEVEN,,,,,testing:sammachine,,,54,,,,,30002457,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SEVEN,,,,,testing:sammachine,,,56,,,,,30002458,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SEVEN,,,,,testing:sammachine,,,58,,,,,30002459,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine SEVEN,,,,,testing:sammachine,,,61,,,,,30002460,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002461,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine X ONE,,,,,testing:sammachine,,,51,,,,,30002462,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X ONE,,,,,testing:sammachine,,,54,,,,,30002463,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X ONE,,,,,testing:sammachine,,,56,,,,,30002464,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X ONE,,,,,testing:sammachine,,,58,,,,,30002465,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X ONE,,,,,testing:sammachine,,,61,,,,,30002466,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002467,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine X TWO,,,,,testing:sammachine,,,51,,,,,30002468,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X TWO,,,,,testing:sammachine,,,54,,,,,30002469,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X TWO,,,,,testing:sammachine,,,56,,,,,30002470,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X TWO,,,,,testing:sammachine,,,58,,,,,30002471,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X TWO,,,,,testing:sammachine,,,61,,,,,30002472,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,XS,,,,,30002473,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine X AL ONE,,,,,testing:sammachine,,,S,,,,,30002474,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X AL ONE,,,,,testing:sammachine,,,M,,,,,30002475,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X AL ONE,,,,,testing:sammachine,,,L,,,,,30002476,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine X AL ONE,,,,,testing:sammachine,,,XL,,,,,30002477,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002478,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Kaius 01 ONE,,,,,testing:sammachine,,,51,,,,,30002479,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 ONE,,,,,testing:sammachine,,,54,,,,,30002480,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 ONE,,,,,testing:sammachine,,,56,,,,,30002481,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 ONE,,,,,testing:sammachine,,,58,,,,,30002482,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 ONE,,,,,testing:sammachine,,,61,,,,,30002483,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002484,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Kaius 01 TWO,,,,,testing:sammachine,,,51,,,,,30002485,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 TWO,,,,,testing:sammachine,,,54,,,,,30002486,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 TWO,,,,,testing:sammachine,,,56,,,,,30002487,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 TWO,,,,,testing:sammachine,,,58,,,,,30002488,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 TWO,,,,,testing:sammachine,,,61,,,,,30002489,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002490,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Kaius 01 THREE,,,,,testing:sammachine,,,51,,,,,30002491,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 THREE,,,,,testing:sammachine,,,54,,,,,30002492,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 THREE,,,,,testing:sammachine,,,56,,,,,30002493,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 THREE,,,,,testing:sammachine,,,58,,,,,30002494,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Kaius 01 THREE,,,,,testing:sammachine,,,61,,,,,30002495,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002496,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted 01 ONE,,,,,testing:sammachine,,,M,,,,,30002497,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 ONE,,,,,testing:sammachine,,,L,,,,,30002498,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 ONE,,,,,testing:sammachine,,,XL,,,,,30002499,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002500,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted 01 TWO,,,,,testing:sammachine,,,M,,,,,30002501,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 TWO,,,,,testing:sammachine,,,L,,,,,30002502,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 TWO,,,,,testing:sammachine,,,XL,,,,,30002503,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002504,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted 01 THREE,,,,,testing:sammachine,,,M,,,,,30002505,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 THREE,,,,,testing:sammachine,,,L,,,,,30002506,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 THREE,,,,,testing:sammachine,,,XL,,,,,30002507,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002508,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted 01 FOUR,,,,,testing:sammachine,,,M,,,,,30002509,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 FOUR,,,,,testing:sammachine,,,L,,,,,30002510,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted 01 FOUR,,,,,testing:sammachine,,,XL,,,,,30002511,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002512,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted ONE,,,,,testing:sammachine,,,M,,,,,30002513,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted ONE,,,,,testing:sammachine,,,L,,,,,30002514,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted ONE,,,,,testing:sammachine,,,XL,,,,,30002515,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002516,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted TWO,,,,,testing:sammachine,,,M,,,,,30002517,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted TWO,,,,,testing:sammachine,,,L,,,,,30002518,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted TWO,,,,,testing:sammachine,,,XL,,,,,30002519,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted LT ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002520,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted LT ONE,,,,,testing:sammachine,,,M,,,,,30002521,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted LT ONE,,,,,testing:sammachine,,,L,,,,,30002522,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted LT ONE,,,,,testing:sammachine,,,XL,,,,,30002523,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted LT TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002524,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted LT TWO,,,,,testing:sammachine,,,M,,,,,30002525,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted LT TWO,,,,,testing:sammachine,,,L,,,,,30002526,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted LT TWO,,,,,testing:sammachine,,,XL,,,,,30002527,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,XS,,,,,30002528,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted AL ONE,,,,,testing:sammachine,,,S,,,,,30002529,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL ONE,,,,,testing:sammachine,,,M,,,,,30002530,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL ONE,,,,,testing:sammachine,,,L,,,,,30002531,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL ONE,,,,,testing:sammachine,,,XL,,,,,30002532,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,XS,,,,,30002533,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted AL TWO,,,,,testing:sammachine,,,S,,,,,30002534,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL TWO,,,,,testing:sammachine,,,M,,,,,30002535,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL TWO,,,,,testing:sammachine,,,L,,,,,30002536,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL TWO,,,,,testing:sammachine,,,XL,,,,,30002537,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,XS,,,,,30002538,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+UnReStricted AL THREE,,,,,testing:sammachine,,,S,,,,,30002539,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL THREE,,,,,testing:sammachine,,,M,,,,,30002540,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL THREE,,,,,testing:sammachine,,,L,,,,,30002541,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+UnReStricted AL THREE,,,,,testing:sammachine,,,XL,,,,,30002542,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002545,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine 01 DISC ONE,,,,,testing:sammachine,,,M-S,,,,,30002546,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC ONE,,,,,testing:sammachine,,,M-L,,,,,30002547,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC ONE,,,,,testing:sammachine,,,L,,,,,30002548,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002549,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine 01 DISC TWO,,,,,testing:sammachine,,,M-S,,,,,30002550,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC TWO,,,,,testing:sammachine,,,M-L,,,,,30002551,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC TWO,,,,,testing:sammachine,,,L,,,,,30002552,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002553,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine 01 DISC FRS V1,,,,,testing:sammachine,,,M-S,,,,,30002554,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC FRS V1,,,,,testing:sammachine,,,M-L,,,,,30002555,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 DISC FRS V1,,,,,testing:sammachine,,,L,,,,,30002556,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002557,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine ONE,,,,,testing:sammachine,,,M-S,,,,,30002558,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine ONE,,,,,testing:sammachine,,,M-L,,,,,30002559,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine ONE,,,,,testing:sammachine,,,L,,,,,30002560,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002562,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine 01 ROAD ONE,,,,,testing:sammachine,,,51,,,,,30002563,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD ONE,,,,,testing:sammachine,,,54,,,,,30002564,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD ONE,,,,,testing:sammachine,,,56,,,,,30002565,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD ONE,,,,,testing:sammachine,,,58,,,,,30002566,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD ONE,,,,,testing:sammachine,,,61,,,,,30002567,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002568,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine 01 ROAD TWO,,,,,testing:sammachine,,,51,,,,,30002569,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD TWO,,,,,testing:sammachine,,,54,,,,,30002570,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD TWO,,,,,testing:sammachine,,,56,,,,,30002571,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD TWO,,,,,testing:sammachine,,,58,,,,,30002572,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD TWO,,,,,testing:sammachine,,,61,,,,,30002573,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002574,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine 01 ROAD THREE,,,,,testing:sammachine,,,51,,,,,30002575,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD THREE,,,,,testing:sammachine,,,54,,,,,30002576,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD THREE,,,,,testing:sammachine,,,56,,,,,30002577,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD THREE,,,,,testing:sammachine,,,58,,,,,30002578,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD THREE,,,,,testing:sammachine,,,61,,,,,30002579,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD MOD V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002580,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine 01 ROAD MOD V1,,,,,testing:sammachine,,,51,,,,,30002581,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD MOD V1,,,,,testing:sammachine,,,54,,,,,30002582,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD MOD V1,,,,,testing:sammachine,,,56,,,,,30002583,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD MOD V1,,,,,testing:sammachine,,,58,,,,,30002584,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD MOD V1,,,,,testing:sammachine,,,61,,,,,30002585,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Trackmachine 01 FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002586,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Trackmachine 01 FRS V1,,,,,testing:sammachine,,,M,,,,,30002587,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Trackmachine 01 FRS V1,,,,,testing:sammachine,,,L,,,,,30002588,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Trackmachine AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002589,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Trackmachine AL ONE,,,,,testing:sammachine,,,M,,,,,30002590,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Trackmachine AL ONE,,,,,testing:sammachine,,,L,,,,,30002591,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002592,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke 01 ONE,,,,,testing:sammachine,,,M,,,,,30002593,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 ONE,,,,,testing:sammachine,,,L,,,,,30002594,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 ONE,,,,,testing:sammachine,,,XL,,,,,30002595,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002596,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke 01 TWO,,,,,testing:sammachine,,,M,,,,,30002597,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 TWO,,,,,testing:sammachine,,,L,,,,,30002598,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 TWO,,,,,testing:sammachine,,,XL,,,,,30002599,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002600,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke 01 THREE,,,,,testing:sammachine,,,M,,,,,30002601,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 THREE,,,,,testing:sammachine,,,L,,,,,30002602,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 THREE,,,,,testing:sammachine,,,XL,,,,,30002603,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002604,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke 01 FOUR,,,,,testing:sammachine,,,M,,,,,30002605,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FOUR,,,,,testing:sammachine,,,L,,,,,30002606,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FOUR,,,,,testing:sammachine,,,XL,,,,,30002607,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002608,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke 01 FIVE,,,,,testing:sammachine,,,M,,,,,30002609,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FIVE,,,,,testing:sammachine,,,L,,,,,30002610,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FIVE,,,,,testing:sammachine,,,XL,,,,,30002611,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002612,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke 01 FRS V1,,,,,testing:sammachine,,,M,,,,,30002613,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FRS V1,,,,,testing:sammachine,,,L,,,,,30002614,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke 01 FRS V1,,,,,testing:sammachine,,,XL,,,,,30002615,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002616,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL ONE,,,,,testing:sammachine,,,M,,,,,30002617,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL ONE,,,,,testing:sammachine,,,L,,,,,30002618,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL ONE,,,,,testing:sammachine,,,XL,,,,,30002619,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002620,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL TWO,,,,,testing:sammachine,,,M,,,,,30002621,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL TWO,,,,,testing:sammachine,,,L,,,,,30002622,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL TWO,,,,,testing:sammachine,,,XL,,,,,30002623,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002624,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL THREE,,,,,testing:sammachine,,,M,,,,,30002625,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL THREE,,,,,testing:sammachine,,,L,,,,,30002626,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL THREE,,,,,testing:sammachine,,,XL,,,,,30002627,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002628,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL FOUR,,,,,testing:sammachine,,,M,,,,,30002629,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL FOUR,,,,,testing:sammachine,,,L,,,,,30002630,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL FOUR,,,,,testing:sammachine,,,XL,,,,,30002631,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL FIVE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002632,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL FIVE,,,,,testing:sammachine,,,M,,,,,30002633,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL FIVE,,,,,testing:sammachine,,,L,,,,,30002634,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL FIVE,,,,,testing:sammachine,,,XL,,,,,30002635,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL SIX,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002636,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL SIX,,,,,testing:sammachine,,,M,,,,,30002637,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL SIX,,,,,testing:sammachine,,,L,,,,,30002638,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL SIX,,,,,testing:sammachine,,,XL,,,,,30002639,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 LTD,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002640,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke 01 LTD,,,,,testing:sammachine,,,M,,,,,30002641,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 LTD,,,,,testing:sammachine,,,L,,,,,30002642,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 LTD,,,,,testing:sammachine,,,XL,,,,,30002643,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002644,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke 01 ONE,,,,,testing:sammachine,,,M,,,,,30002645,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 ONE,,,,,testing:sammachine,,,L,,,,,30002646,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 ONE,,,,,testing:sammachine,,,XL,,,,,30002647,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002648,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke 01 TWO,,,,,testing:sammachine,,,M,,,,,30002649,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 TWO,,,,,testing:sammachine,,,L,,,,,30002650,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke 01 TWO,,,,,testing:sammachine,,,XL,,,,,30002651,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke01 FRS V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002652,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke01 FRS V1,,,,,testing:sammachine,,,M,,,,,30002653,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke01 FRS V1,,,,,testing:sammachine,,,L,,,,,30002654,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke01 FRS V1,,,,,testing:sammachine,,,XL,,,,,30002655,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002656,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke ONE,,,,,testing:sammachine,,,M,,,,,30002657,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke ONE,,,,,testing:sammachine,,,L,,,,,30002658,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke ONE,,,,,testing:sammachine,,,XL,,,,,30002659,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002660,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke TWO,,,,,testing:sammachine,,,M,,,,,30002661,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke TWO,,,,,testing:sammachine,,,L,,,,,30002662,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke TWO,,,,,testing:sammachine,,,XL,,,,,30002663,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002664,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke THREE,,,,,testing:sammachine,,,M,,,,,30002665,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke THREE,,,,,testing:sammachine,,,L,,,,,30002666,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke THREE,,,,,testing:sammachine,,,XL,,,,,30002667,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002668,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke FOUR,,,,,testing:sammachine,,,M,,,,,30002669,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke FOUR,,,,,testing:sammachine,,,L,,,,,30002670,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke FOUR,,,,,testing:sammachine,,,XL,,,,,30002671,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke LTD LT,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002672,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke LTD LT,,,,,testing:sammachine,,,M,,,,,30002673,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke LTD LT,,,,,testing:sammachine,,,L,,,,,30002674,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke LTD LT,,,,,testing:sammachine,,,XL,,,,,30002675,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke ONE LT,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002676,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke ONE LT,,,,,testing:sammachine,,,M,,,,,30002677,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke ONE LT,,,,,testing:sammachine,,,L,,,,,30002678,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke ONE LT,,,,,testing:sammachine,,,XL,,,,,30002679,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke TWO LT,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002680,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke TWO LT,,,,,testing:sammachine,,,M,,,,,30002681,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke TWO LT,,,,,testing:sammachine,,,L,,,,,30002682,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke TWO LT,,,,,testing:sammachine,,,XL,,,,,30002683,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Twostroke AL 27,,bmc,,Bikes,testing:sammachine,TRUE,Size,27,,,,,30002684,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL 24 V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,24,,,,,30002685,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL 24 V2,,bmc,,Bikes,testing:sammachine,TRUE,Size,24,,,,,30002686,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL 20 V1,,bmc,,Bikes,testing:sammachine,TRUE,Size,20,,,,,30002687,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Twostroke AL 20 V2,,bmc,,Bikes,testing:sammachine,TRUE,Size,20,,,,,30002688,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Alpenchallenge AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002689,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Alpenchallenge AL ONE,,,,,testing:sammachine,,,M,,,,,30002690,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL ONE,,,,,testing:sammachine,,,L,,,,,30002691,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL ONE,,,,,testing:sammachine,,,XL,,,,,30002692,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002693,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Alpenchallenge AL TWO,,,,,testing:sammachine,,,M,,,,,30002694,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL TWO,,,,,testing:sammachine,,,L,,,,,30002695,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL TWO,,,,,testing:sammachine,,,XL,,,,,30002696,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002697,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Alpenchallenge AL THREE,,,,,testing:sammachine,,,M,,,,,30002698,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL THREE,,,,,testing:sammachine,,,L,,,,,30002699,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL THREE,,,,,testing:sammachine,,,XL,,,,,30002700,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002701,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Alpenchallenge AL FOUR,,,,,testing:sammachine,,,M,,,,,30002702,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL FOUR,,,,,testing:sammachine,,,L,,,,,30002703,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AL FOUR,,,,,testing:sammachine,,,XL,,,,,30002704,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002735,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 AMP TWO,,,,,testing:sammachine,,,51,,,,,30002736,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO,,,,,testing:sammachine,,,54,,,,,30002737,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO,,,,,testing:sammachine,,,56,,,,,30002738,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO,,,,,testing:sammachine,,,58,,,,,30002739,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO,,,,,testing:sammachine,,,61,,,,,30002740,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002741,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 AMP TWO USA,,,,,testing:sammachine,,,51,,,,,30002742,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO USA,,,,,testing:sammachine,,,54,,,,,30002743,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO USA,,,,,testing:sammachine,,,56,,,,,30002744,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO USA,,,,,testing:sammachine,,,58,,,,,30002745,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP TWO USA,,,,,testing:sammachine,,,61,,,,,30002746,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002759,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 AMP X ONE,,,,,testing:sammachine,,,51,,,,,30002760,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE,,,,,testing:sammachine,,,54,,,,,30002761,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE,,,,,testing:sammachine,,,56,,,,,30002762,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE,,,,,testing:sammachine,,,58,,,,,30002763,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE,,,,,testing:sammachine,,,61,,,,,30002764,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002765,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 AMP X ONE USA,,,,,testing:sammachine,,,51,,,,,30002766,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE USA,,,,,testing:sammachine,,,54,,,,,30002767,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE USA,,,,,testing:sammachine,,,56,,,,,30002768,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE USA,,,,,testing:sammachine,,,58,,,,,30002769,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X ONE USA,,,,,testing:sammachine,,,61,,,,,30002770,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002771,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 AMP X TWO,,,,,testing:sammachine,,,51,,,,,30002772,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO,,,,,testing:sammachine,,,54,,,,,30002773,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO,,,,,testing:sammachine,,,56,,,,,30002774,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO,,,,,testing:sammachine,,,58,,,,,30002775,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO,,,,,testing:sammachine,,,61,,,,,30002776,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002777,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine 01 AMP X TWO USA,,,,,testing:sammachine,,,51,,,,,30002778,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO USA,,,,,testing:sammachine,,,54,,,,,30002779,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO USA,,,,,testing:sammachine,,,56,,,,,30002780,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO USA,,,,,testing:sammachine,,,58,,,,,30002781,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine 01 AMP X TWO USA,,,,,testing:sammachine,,,61,,,,,30002782,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine AMP TWO USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30002795,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Roadmachine AMP TWO USA,,,,,testing:sammachine,,,51,,,,,30002796,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine AMP TWO USA,,,,,testing:sammachine,,,54,,,,,30002797,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine AMP TWO USA,,,,,testing:sammachine,,,56,,,,,30002798,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine AMP TWO USA,,,,,testing:sammachine,,,58,,,,,30002799,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Roadmachine AMP TWO USA,,,,,testing:sammachine,,,61,,,,,30002800,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LTD,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002807,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke AMP LTD,,,,,testing:sammachine,,,M,,,,,30002808,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LTD,,,,,testing:sammachine,,,L,,,,,30002809,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LTD,,,,,testing:sammachine,,,XL,,,,,30002810,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002811,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke AMP ONE,,,,,testing:sammachine,,,M,,,,,30002812,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP ONE,,,,,testing:sammachine,,,L,,,,,30002813,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP ONE,,,,,testing:sammachine,,,XL,,,,,30002814,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT ONE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002815,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke AMP LT ONE USA,,,,,testing:sammachine,,,M,,,,,30002816,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT ONE USA,,,,,testing:sammachine,,,L,,,,,30002817,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT ONE USA,,,,,testing:sammachine,,,XL,,,,,30002818,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002819,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke AMP TWO,,,,,testing:sammachine,,,M,,,,,30002820,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP TWO,,,,,testing:sammachine,,,L,,,,,30002821,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP TWO,,,,,testing:sammachine,,,XL,,,,,30002822,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT TWO USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002823,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke AMP LT TWO USA,,,,,testing:sammachine,,,M,,,,,30002824,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT TWO USA,,,,,testing:sammachine,,,L,,,,,30002825,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT TWO USA,,,,,testing:sammachine,,,XL,,,,,30002826,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002827,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke AMP THREE,,,,,testing:sammachine,,,M,,,,,30002828,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP THREE,,,,,testing:sammachine,,,L,,,,,30002829,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP THREE,,,,,testing:sammachine,,,XL,,,,,30002830,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT THREE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002831,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Fourstroke AMP LT THREE USA,,,,,testing:sammachine,,,M,,,,,30002832,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT THREE USA,,,,,testing:sammachine,,,L,,,,,30002833,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Fourstroke AMP LT THREE USA,,,,,testing:sammachine,,,XL,,,,,30002834,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AMP AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002835,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Alpenchallenge AMP AL ONE,,,,,testing:sammachine,,,M,,,,,30002836,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AMP AL ONE,,,,,testing:sammachine,,,L,,,,,30002837,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Alpenchallenge AMP AL ONE,,,,,testing:sammachine,,,XL,,,,,30002838,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002839,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AL ONE,,,,,testing:sammachine,,,M,,,,,30002840,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL ONE,,,,,testing:sammachine,,,L,,,,,30002841,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL ONE,,,,,testing:sammachine,,,XL,,,,,30002842,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL ONE ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002843,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AL ONE ST,,,,,testing:sammachine,,,M,,,,,30002844,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002845,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AL TWO,,,,,testing:sammachine,,,M,,,,,30002846,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL TWO,,,,,testing:sammachine,,,L,,,,,30002847,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL TWO,,,,,testing:sammachine,,,XL,,,,,30002848,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL TWO ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002849,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AL TWO ST,,,,,testing:sammachine,,,M,,,,,30002850,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL THREE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002851,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AL THREE,,,,,testing:sammachine,,,M,,,,,30002852,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL THREE,,,,,testing:sammachine,,,L,,,,,30002853,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL THREE,,,,,testing:sammachine,,,XL,,,,,30002854,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL THREE ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002855,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AL THREE ST,,,,,testing:sammachine,,,M,,,,,30002856,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL FOUR,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002857,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AL FOUR,,,,,testing:sammachine,,,M,,,,,30002858,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL FOUR,,,,,testing:sammachine,,,L,,,,,30002859,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL FOUR,,,,,testing:sammachine,,,XL,,,,,30002860,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AL FOUR ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002861,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AL FOUR ST,,,,,testing:sammachine,,,M,,,,,30002862,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL SPEED ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002863,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL SPEED ONE,,,,,testing:sammachine,,,M,,,,,30002864,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL SPEED ONE,,,,,testing:sammachine,,,L,,,,,30002865,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL SPEED ONE,,,,,testing:sammachine,,,XL,,,,,30002866,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL SPEED ONE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002867,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL SPEED ONE USA,,,,,testing:sammachine,,,M,,,,,30002868,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL SPEED ONE USA,,,,,testing:sammachine,,,L,,,,,30002869,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL SPEED ONE USA,,,,,testing:sammachine,,,XL,,,,,30002870,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL SPEED ONE ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002871,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL SPEED ONE ST,,,,,testing:sammachine,,,M,,,,,30002872,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL SPEED ONE ST USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002873,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL SPEED ONE ST USA,,,,,testing:sammachine,,,M,,,,,30002874,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL ONE,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002875,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL ONE,,,,,testing:sammachine,,,M,,,,,30002876,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL ONE,,,,,testing:sammachine,,,L,,,,,30002877,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL ONE,,,,,testing:sammachine,,,XL,,,,,30002878,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL ONE USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002879,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL ONE USA,,,,,testing:sammachine,,,M,,,,,30002880,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL ONE USA,,,,,testing:sammachine,,,L,,,,,30002881,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL ONE USA,,,,,testing:sammachine,,,XL,,,,,30002882,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL ONE ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002883,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL ONE ST,,,,,testing:sammachine,,,M,,,,,30002884,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL ONE ST USA,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002885,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL ONE ST USA,,,,,testing:sammachine,,,M,,,,,30002886,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL TWO,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002887,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL TWO,,,,,testing:sammachine,,,M,,,,,30002888,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL TWO,,,,,testing:sammachine,,,L,,,,,30002889,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL TWO,,,,,testing:sammachine,,,XL,,,,,30002890,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+257 AMP AL TWO ST,,bmc,,Bikes,testing:sammachine,TRUE,Size,S,,,,,30002891,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+257 AMP AL TWO ST,,,,,testing:sammachine,,,M,,,,,30002892,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,
+Timemachine 01 ROAD MOD V1 CPB,,bmc,,Bikes,testing:sammachine,TRUE,Size,47,,,,,30004314,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,draft
+Timemachine 01 ROAD MOD V1 CPB,,,,,testing:sammachine,,,51,,,,,30004315,0,shopify,deny,manual,,,TRUE,TRUE,,,,FALSE,,,,,,,,,,,,,,,,,lb,,,

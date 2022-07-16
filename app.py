@@ -5,7 +5,7 @@ import csv ;
 import json ;
 
 def bikeDataToList(bikedata,vendor='BMC'):
-    bikedatalist = ['Handle','Title','Body(HTML)','Vendor','Standardized Product Type',
+    bikedatalist = ['Title','Body(HTML)','Vendor','Standardized Product Type',
     'Custom Product Type','Tags','Published','Option1 Name','Option1 Value','Option2 Name',
     'Option2 Value','Option3 Name','Option3 Value','Variant SKU','Variant Grams',
     'Variant Inventory Tracker','Variant Inventory Policy','Variant Fulfillment Service','Variant Price','Variant Compare At Price',
@@ -16,7 +16,7 @@ def bikeDataToList(bikedata,vendor='BMC'):
     ,'Google Shopping / Custom Label 4','Variant Image','Variant Weight Unit',
     'Variant Tax Code','cost','Status'
     ]
-    bikedatalistPrintable = ['','','','','',
+    bikedatalistPrintable = ['','','','',
     '','testing:sammachine','','','Option1 Value','',
     '','','','Variant SKU',0,
     'shopify','deny','manual','','',
@@ -41,14 +41,14 @@ def bikeDataToList(bikedata,vendor='BMC'):
             
                 if i["ProductText"] != bikename:
                     printablecopy = bikedatalistPrintable
-                    printablecopy[1] = i["ProductText"]
-                    printablecopy[3] = vendor
-                    printablecopy[5] = "Bikes"
-                    printablecopy[7] = "TRUE"
-                    printablecopy[8] = "Size"
-                    printablecopy[9] = i["Size"]
-                    printablecopy[14] = i['MaterialNumber']
-                    printablecopy[46] = "draft"
+                    printablecopy[0] = i["ProductText"]
+                    printablecopy[2] = vendor
+                    printablecopy[4] = "Bikes"
+                    printablecopy[6] = "TRUE"
+                    printablecopy[7] = "Size"
+                    printablecopy[8] = i["Size"]
+                    printablecopy[13] = i['MaterialNumber']
+                    printablecopy[45] = "draft"
                     shopifyReadylist.append(printablecopy)
                     print("HEAD",",",bikename,Counter)
                     print(printablecopy)
@@ -57,16 +57,16 @@ def bikeDataToList(bikedata,vendor='BMC'):
                     bikename = i["ProductText"]
                 elif i["ProductText"] == bikename:
                     printablecopy = bikedatalistPrintable
-                    printablecopy[1] = ""
-                    printablecopy[3] = ""
-                    printablecopy[5] = ""
+                    printablecopy[0] = i["ProductText"]
+                    printablecopy[2] = ""
+                    printablecopy[4] = ""
+                    printablecopy[6] = ""
                     printablecopy[7] = ""
-                    printablecopy[8] = ""
-                    printablecopy[9] = i["Size"]
-                    printablecopy[14] = i['MaterialNumber']
-                    printablecopy[46] = ""
-                    printablecopy[9] = i["Size"]
-                    printablecopy[14] = i['MaterialNumber']
+                    printablecopy[8] = i["Size"]
+                    printablecopy[13] = i['MaterialNumber']
+                    printablecopy[45] = ""
+                    printablecopy[8] = i["Size"]
+                    printablecopy[13] = i['MaterialNumber']
                     shopifyReadylist.append(printablecopy)
                     print("SUB",",",bikename,Counter)
                     print(printablecopy)
